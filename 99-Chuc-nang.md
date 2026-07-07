@@ -61,6 +61,11 @@
 | **humongous** | /hjuːˈmʌŋɡəs/ | cực kỳ to lớn, khổng lồ (đồng nghĩa formal: enormous/immense/massive) | *They live in a **humongous** house.* | Informal (Mỹ) — chỉ Speaking Part 1-2, tránh Writing | 🔴 |
 | **on the books** | /ɒn ðə bʊks/ | (luật) đang có hiệu lực / được ghi vào sổ sách | *It's one of the toughest laws on the books.* | Trang trọng hơn — dùng được cả Writing (luật/chính sách) | 🔴 |
 | **the tricks of the trade** | /ðə trɪks əv ðə treɪd/ | bí quyết nghề nghiệp, kinh nghiệm riêng của người trong nghề | *After years in the kitchen, she's learned all the tricks of the trade.* | Trung tính — dùng tốt cho Speaking Part 3 & Writing (kỹ năng/nghề nghiệp) | 🔴 |
+| **make the cut** | /meɪk ðə kʌt/ | được chọn, lọt qua vòng loại (đối lập: didn't make the cut = bị loại) | *There was no place for a 13-year-old to **make the cut** on their roster.* | Trung tính — dùng tốt Speaking Part 2-3 | 🔴 |
+| **carry a grudge** | /ˈkæri ə ɡrʌdʒ/ | để bụng, giữ mối hận trong lòng | *You can't carry all things, all grudges, all updates on your ex.* | Trung tính — Speaking (chủ đề relationships/emotions) | 🔴 |
+| **gut instinct** | /ɡʌt ɪnˈstɪŋkt/ | trực giác, linh cảm | *We are led by our gut instincts, our intuition, our desires and fears.* | Trung tính — mạnh cho Speaking Part 3 (chủ đề ra quyết định) | 🔴 |
+| **patchwork quilt** (ẩn dụ) | /ˈpætʃwɜːk kwɪlt/ | tấm chăn chắp vá — ẩn dụ chỉ việc được tạo nên từ nhiều mảnh ghép/nhiều người | *We are each a **patchwork quilt** of those who have loved us.* | Văn học/ẩn dụ — hợp Speaking Part 2 kể chuyện, band cao | 🔴 |
+| **catch and release** (ẩn dụ) | /kætʃ ənd rɪˈliːs/ | bắt rồi thả — ẩn dụ chỉ việc học buông bỏ những điều không cần giữ | *Growing up is about **catch and release** — knowing what to keep and what to let go.* | Văn học/ẩn dụ — hợp Speaking Part 2-3, band cao | 🔴 |
 
 ## 8. Cụm liên kết học thuật (linking phrases) — mạnh cho Writing Task 2 & Speaking Part 3
 | Cụm | Phiên âm | Nghĩa/công dụng | Ví dụ | TT |
@@ -84,6 +89,11 @@
 | **intricate** (adj) / **intricacy** (n) | /ˈɪntrɪkət/ | phức tạp, tinh vi, chi tiết rắc rối | *Music can seem like a labyrinth of **intricate** patterns.* | P | 🔴 |
 | **pottery** (n, không đếm được) | /ˈpɒtəri/ | đồ gốm, nghề làm gốm (giống "furniture" — không có "a pottery"/"potteries") | *The dish is made of **pottery**.* | P | 🔴 |
 | **miserable** (adj) / **misery** (n) | /ˈmɪzərəbl/ | khổ sở, buồn bã (cảm xúc) hoặc tồi tệ (điều kiện/thời tiết). Đồng nghĩa band cao: wretched, despondent, downcast | *She felt **miserable** after losing her job.* | P | 🔴 |
+| **unsolicited** (adj) | /ˌʌnsəˈlɪsɪtɪd/ | không được yêu cầu, tự ý đưa ra (thường là lời khuyên/ý kiến) | *I try not to give anyone **unsolicited** advice unless they ask for it.* | P | 🔴 |
+| **consummate** (adj) | /kənˈsʌmɪt/ | toàn vẹn, tài ba, điêu luyện (mô tả kỹ năng/phẩm chất ở mức hoàn hảo) | *I know I sound like a **consummate** optimist, but I'm really not.* | R | 🔴 |
+| **veiled** (adj) / **thinly veiled** | /veɪld/ | che giấu, úp mở (không nói thẳng); **thinly veiled** = che giấu sơ sài, ai cũng nhận ra | *The advice often presented itself as **thinly veiled** warnings.* | P | 🔴 |
+| **resilient** (adj) / **resilience** (n) | /rɪˈzɪliənt/ | kiên cường, có khả năng phục hồi sau khó khăn | *We will grow more **resilient** because of hard things that happen to us.* | P | 🔴 |
 
 ---
 *Mục 3 (dòng "The + so sánh...") và mục 4, 9 (underpinnings, potent, arousal) bổ sung từ: Cambridge 12, Test 7, Reading Passage 2 & 3.*
+*Mục 7 (make the cut, carry a grudge, gut instinct, patchwork quilt, catch and release) và mục 9 (unsolicited, consummate, veiled, resilient) bổ sung từ: Taylor Swift — NYU Commencement Speech (2022).*
