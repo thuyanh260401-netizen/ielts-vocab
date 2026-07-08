@@ -1,0 +1,33 @@
+name: Send Telegram Message
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'outbox.json'
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Send message via Telegram Bot API
+        env:
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          if [ ! -f outbox.json ]; then
+            echo "No outbox.json found, nothing to send."
+            exit 0
+          fi
+          RESPONSE=$(curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            --data-binary @outbox.json)
+          echo "Telegram response: $RESPONSE"
+          if echo "$RESPONSE" | grep -q '"ok":true'; then
+            echo "Message sent successfully."
+          else
+            echo "Failed to send message."
+            exit 1
+          fi
