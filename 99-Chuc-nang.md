@@ -28,6 +28,7 @@
 | **staff = danh từ KHÔNG số nhiều** | "staff" (nhân viên nói chung) không thêm "s" → ~~staffs~~ SAI. Staff + động từ số nhiều (staff are, not is) | *facilities for **staff*** (không phải "for staffs") / *The **staff are** helpful.* | 🔴 |
 | **-ing vs -ed (adj mô tả nguồn cảm xúc vs người cảm nhận)** | Đuôi **-ing** mô tả VẬT/VIỆC gây ra cảm xúc; đuôi **-ed** mô tả NGƯỜI cảm nhận. Áp dụng cho: engrossing/engrossed, interesting/interested, boring/bored... | *I found the novel so **engrossing**.* (tiểu thuyết gây cuốn hút) vs *I was **engrossed** in the novel.* (tôi bị cuốn hút) | 🔴 |
 | **Stative verbs KHÔNG dùng dạng tiếp diễn khi mô tả tính chất** | Động từ trạng thái (taste, smell, sound, look, know, believe...) khi mô tả TÍNH CHẤT CỐ HỮU thì KHÔNG chia "be + V-ing". Sau đó dùng TÍNH TỪ, không phải trạng từ | ✅ *The cake **tastes delicious**.* ❌ ~~The cake is tasting deliciously.~~ (chỉ dùng "be tasting" khi mô tả HÀNH ĐỘNG nếm: *She is tasting the soup to check the salt.*) | 🔴 |
+| **suggest/recommend/insist + S + V nguyên mẫu (subjunctive)** | Sau các động từ đề xuất/yêu cầu (suggest, recommend, insist, demand, propose), mệnh đề theo sau dùng V NGUYÊN MẪU (không chia thì, không V-ing) dù chủ ngữ là gì | *I **suggest we repair** the handle.* (không phải "repairing"/"repairs") / *The doctor **recommended she rest**.* | 🔴 |
 
 ## 4. Cặp PARAPHRASE (đề ↔ audio/bài đọc)
 | Từ trong ĐỀ | Từ đồng nghĩa trong AUDIO/BÀI | TT |
