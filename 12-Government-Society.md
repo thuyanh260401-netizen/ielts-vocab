@@ -15,6 +15,12 @@
 | **stranglehold (on)** (n) | /ˈstræŋ.ɡəl.həʊld/ | sự kiểm soát tuyệt đối, ngăn cản sự phát triển | *A few corporations have a **stranglehold on** the market.* | 8.0+ | P | 🔴 |
 | **beneficiary** (n) | /ˌben.əˈfɪʃ.ər.i/ | người/nhóm hưởng lợi | *Small farmers are the main **beneficiaries** of this subsidy scheme.* | 7.0+ | P | 🔴 |
 | **landowner** (n) | /ˈlændˌəʊnər/ | chủ đất, địa chủ | *Large **landowners** often oppose land reform policies.* | 7.0+ | P | 🔴 |
+| **dependency culture** | /dɪˈpendənsi ˈkʌltʃər/ | văn hóa ỷ lại (vào trợ cấp/chính phủ) | *Critics argue that generous welfare can create a **dependency culture**.* | 7.5+ | P | 🔴 |
+| **tax burden** | /tæks ˈbɜːdn/ | gánh nặng thuế | *Extensive welfare programmes increase the **tax burden** on citizens.* | 7.0+ | P | 🔴 |
+| **structural inequality** | /ˈstrʌktʃərəl ˌɪnɪˈkwɒləti/ | bất bình đẳng mang tính cấu trúc/hệ thống | ***Structural inequality** means not everyone has a fair chance to succeed.* | 8.0+ | P | 🔴 |
+| **social mobility** | /ˈsəʊʃəl məʊˈbɪləti/ | khả năng thay đổi tầng lớp xã hội (đi lên/xuống) | *Education is key to improving **social mobility**.* | 7.5+ | P | 🔴 |
+| **self-made** (adj) | /ˌself ˈmeɪd/ | tự thân lập nghiệp, không nhờ ai | ***Self-made** entrepreneurs built their wealth without government funding.* | 7.0+ | P | 🔴 |
+| **upskill** (v) | /ˈʌpskɪl/ | nâng cao kỹ năng | *Workers need to **upskill** to remain competitive in the job market.* | 7.0+ | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing Task 2 — chủ đề Poverty/Government role):* Chính phủ nên xây dựng **social safety nets** và **public welfare programmes** để **address poverty** và **reduce vulnerability** của nhóm dân cư dễ bị ảnh hưởng bởi **agriculture shocks** hay khủng hoảng kinh tế. Một số quốc gia (vd. các chương trình an sinh ở Bắc Âu) thường được **held up as** hình mẫu thành công.
 
