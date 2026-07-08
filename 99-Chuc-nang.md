@@ -36,6 +36,7 @@
 | **closed** | **don't open** | 🟡 |
 | **cost** | **price / fee** | 🟡 |
 | **suit** (v) /suːt/ | **be in keeping with** | 🔴 |
+| **altitude** (từ khái quát trong đề) | **high + số mét cụ thể** (audio mô tả bằng số liệu) | 🔴 |
 | **resistant to antibiotics** | **losing their usefulness** (về thuốc kháng sinh) | 🔴 |
 | **exact and detailed (portrait/data)** | **precise data** | 🔴 |
 | **anticipate** (v) /ænˈtɪsɪpeɪt/ | **expect** (v) → danh từ: **expectation** | 🔴 |
