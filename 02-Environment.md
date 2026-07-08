@@ -9,6 +9,7 @@
 | **unprecedented** (adj) | /ʌnˈpresɪdentɪd/ | chưa từng có tiền lệ | *This **unprecedented** effort saved the species.* | 7.5+ | P | 🔴 |
 | **captive-breeding programme** | /ˈkæptɪv ˈbriːdɪŋ ˈprəʊɡræm/ | chương trình nhân giống nuôi nhốt | *The **captive-breeding programme** proved extremely successful.* | 7.0+ | R | 🔴 |
 | **reintroduce** (v) / **reintroduction** (n) | /ˌriːɪntrəˈdjuːs/ | tái thả về môi trường tự nhiên | *Tortoises can't be **reintroduced** into the wild until they're big enough.* | 7.0+ | P | 🔴 |
+| **altitude** (n) | /ˈæltɪtjuːd/ | độ cao (so với mực nước biển) | *The highest peaks are more than 2600 meters in **altitude**.* | 6.5+ | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing Task 2 — Environment/Conservation):* Human activity has **exacerbated** the decline of many endangered species, partly through the introduction of **alien species**. **Unprecedented** conservation efforts, such as **captive-breeding programmes** designed to **reintroduce** animals into the wild, are needed to reverse this trend.
 
