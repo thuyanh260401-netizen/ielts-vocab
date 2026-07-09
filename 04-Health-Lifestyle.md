@@ -16,6 +16,7 @@
 | **memory circuits** | /ˈmeməri ˈsɜːkɪts/ | mạch trí nhớ (mạng lưới thần kinh lưu ký ức) | *During deep sleep, the brain strengthens **memory circuits**.* | R | 🔴 |
 | **deprivation** (n) / **deprive** (v) | /ˌdeprɪˈveɪʃn/ | sự thiếu thốn, tước đoạt; **deprive sb OF sth**. Từ ĐA DỤNG — dùng được nhiều chủ đề: sleep/food/social/economic/sensory deprivation | ***Sleep deprivation** can compromise the immune system.* / *Poverty **deprives** children **of** education.* | P | 🔴 |
 | **physiological** (adj) / **physiology** (n) | /ˌfɪziəˈlɒdʒɪkəl/ | thuộc về sinh lý học (chức năng cơ thể). ⚠️ Dễ nhầm với **psychological** (tâm lý) | *Sleep deprivation causes serious **physiological** and psychological effects.* | P | 🔴 |
+| **contaminate** (v) / **contamination** (n) | /kənˈtæmɪneɪt/ | làm ô nhiễm, làm nhiễm bẩn/nhiễm khuẩn | *Improper sanitation can easily lead to **contamination**.* | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing/Speaking):* ...
 
