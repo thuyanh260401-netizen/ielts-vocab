@@ -8,6 +8,7 @@
 | Từ 1 | Từ 2 | Khác nhau | TT |
 |---|---|---|---|
 | **summit** /ˈSUM-mit/ (n: đỉnh/hội nghị thượng đỉnh) | **submit** /sub-MIT/ (v: nộp) | Trọng âm: đầu vs sau; "the summit" vs "he submits" | 🔴 |
+| **especially** /ɪˈspeʃəli/ (đặc biệt là, nhấn mạnh 1 TH cụ thể) | **specially** /ˈspeʃəli/ (dành riêng cho mục đích cụ thể) | *This is **especially** interesting* (nổi bật hơn cái khác) vs *made **specially** for you* (làm riêng cho) | 🔴 |
 
 ## 2. Từ ĐỒNG ÂM (phát âm giống hệt nhau — chỉ phân biệt qua ngữ cảnh + chính tả)
 | Từ 1 | Từ 2 | Cách phân biệt | TT |

@@ -12,6 +12,7 @@
 | **altitude** (n) | /ˈæltɪtjuːd/ | độ cao (so với mực nước biển). ⚠️ Paraphrase: audio thường mô tả CỤ THỂ bằng "high" + số mét, còn đề bài/câu hỏi dùng từ KHÁI QUÁT "altitude" | *Audio: "the highest peaks are more than 2600 meters **high**" → đề bài khái quát hóa thành: **altitude**.* | 6.5+ | P | 🔴 |
 | **conservationist** (n, NGƯỜI) vs **conservation** (n, khái niệm) | /ˌkɒnsəˈveɪʃənɪst/ vs /ˌkɒnsəˈveɪʃn/ | conservationist = **nhà bảo tồn** (người); conservation = **sự bảo tồn** (hoạt động/khái niệm). ⚠️ Đuôi "-ist" thường chỉ NGƯỜI làm nghề đó | *Some **conservationists** are worried about the impact of tourism on dolphin numbers.* | 7.0+ | P | 🔴 |
 | **inhabit** (v) | /ɪnˈhæbɪt/ | sinh sống, cư trú (tại). Word family: **inhabitant** (n, cư dân), **habitat** (n, môi trường sống — khác "inhabit" là HÀNH ĐỘNG) | *The common dolphin **inhabits** the whole of the sea around New Zealand.* | 7.0+ | P | 🔴 |
+| **pod** (n) | /pɒd/ | đàn/nhóm (cá heo, cá voi) — thuật ngữ chuyên ngành | *Dusky dolphins travel in **pods** as big as 800 members.* | 6.5+ | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing Task 2 — Environment/Conservation):* Human activity has **exacerbated** the decline of many endangered species, partly through the introduction of **alien species**. **Unprecedented** conservation efforts, such as **captive-breeding programmes** designed to **reintroduce** animals into the wild, are needed to reverse this trend.
 
