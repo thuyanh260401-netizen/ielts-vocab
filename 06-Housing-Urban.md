@@ -12,5 +12,6 @@
 | **landlord** / **landlady** | /ˈlænd.lɔːd/ · /ˈlænd.leɪ.di/ | chủ nhà (nam/nữ) | The **landlord** raised the rent last month. | P | 🔴 |
 | **tenant** | /ˈten.ənt/ | người thuê nhà (đối lập với landlord) | The **tenant** must pay a deposit before moving in. | P | 🔴 |
 | **slippery** (adj) | /ˈslɪpəri/ | trơn, dễ trượt | Floor coverings **that aren't slippery** improve safety. ⚠️ nhớ cả cụm phủ định "aren't slippery" | P | 🔴 |
+| **adjacent (to)** | /əˈdʒeɪsənt/ | liền kề, ngay cạnh — rất hay dùng trong đề dạng bản đồ/vị trí | The building is directly **adjacent to** the campus garden. | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing/Speaking):* ...
