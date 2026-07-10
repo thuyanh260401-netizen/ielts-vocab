@@ -98,6 +98,12 @@
 | **veiled** (adj) / **thinly veiled** | /veɪld/ | che giấu, úp mở (không nói thẳng); **thinly veiled** = che giấu sơ sài, ai cũng nhận ra | *The advice often presented itself as **thinly veiled** warnings.* | P | 🔴 |
 | **resilient** (adj) / **resilience** (n) | /rɪˈzɪliənt/ | kiên cường, có khả năng phục hồi sau khó khăn | *We will grow more **resilient** because of hard things that happen to us.* | P | 🔴 |
 | **novice** (n) | /ˈnɒvɪs/ | người mới học, người mới vào nghề (trái nghĩa: **expert**). ⚠️ KHÔNG phải tên riêng — dễ nhầm nếu chưa biết từ | *To a **novice**, golfing seems easy; to an expert, it's second nature.* | P | 🔴 |
+| **spectator** (n) | /spekˈteɪtər/ | khán giả, người xem (đối lập player/participant) | *Being a **spectator** is a thrilling experience.* | P | 🔴 |
+| **intoxicating** (adj) | /ɪnˈtɒksɪkeɪtɪŋ/ | mê hoặc, hấp dẫn đến ngất ngây (mạnh hơn "exciting") | *The Games are **intoxicating** to watch.* | P | 🔴 |
+| **embody** (v) | /ɪmˈbɒdi/ | thể hiện, là hiện thân của (khái niệm trừu tượng) | *The Games celebrate the dream of progress as **embodied** in the human form.* | P | 🔴 |
+| **refine** (v) | /rɪˈfaɪn/ | trau dồi, hoàn thiện (kỹ năng/kỹ thuật) | *The brain chooses to retain and **refine** certain motor actions.* | P | 🔴 |
+| **resonate (with)** (v) | /ˈrezəneɪt/ | gây được sự đồng cảm/cộng hưởng (nghĩa đen: dao động cộng hưởng) | *Watching an athlete causes the motor system of the observer to **resonate**.* | P | 🔴 |
+| **goal-orientated** (adj) | /ɡəʊl ˈɔːriənteɪtɪd/ | hướng đến mục tiêu | *Mirror neurons require **goal-orientated** movements to activate.* | P | 🔴 |
 
 ---
 *Mục 3 (dòng "The + so sánh...") và mục 4, 9 (underpinnings, potent, arousal) bổ sung từ: Cambridge 12, Test 7, Reading Passage 2 & 3.*
