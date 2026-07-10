@@ -27,6 +27,7 @@
 |---|---|---|
 | Education (Giáo dục) | [01-Education.md](01-Education.md) | ✅ có nội dung |
 | Environment (Môi trường) | [02-Environment.md](02-Environment.md) | ✅ có nội dung |
+| Science & Technology (Khoa học & công nghệ) | [03-Science-Technology.md](03-Science-Technology.md) | ✅ có nội dung |
 | Health & Lifestyle (Sức khỏe & lối sống) | [04-Health-Lifestyle.md](04-Health-Lifestyle.md) | ✅ có nội dung |
 | Work & Employment (Công việc & việc làm) | [05-Work-Employment.md](05-Work-Employment.md) | ✅ có nội dung |
 | Housing & Urban life (Nhà ở & đô thị) | [06-Housing-Urban.md](06-Housing-Urban.md) | ✅ có nội dung |

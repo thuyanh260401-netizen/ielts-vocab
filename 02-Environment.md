@@ -15,6 +15,10 @@
 | **inhabit** (v) | /ɪnˈhæbɪt/ | sinh sống, cư trú (tại). Word family: **inhabitant** (n, cư dân), **habitat** (n, môi trường sống — khác "inhabit" là HÀNH ĐỘNG) | *The common dolphin **inhabits** the whole of the sea around New Zealand.* | 7.0+ | P | 🔴 |
 | **pod** (n) | /pɒd/ | đàn/nhóm (cá heo, cá voi) — thuật ngữ chuyên ngành | *Dusky dolphins travel in **pods** as big as 800 members.* | 6.5+ | P | 🔴 |
 | **cattle** (n, KHÔNG ĐẾM ĐƯỢC, luôn số nhiều) | /ˈkætl/ | gia súc (bò nói chung, gồm cả bò đực và bò cái). Word family: **ox** (n, bò đực/bò kéo cày, số nhiều **oxen**), **cow** (n, bò cái), **bull** (n, bò đực chưa thiến), **livestock** (n, gia súc nói chung — gồm cả bò, cừu, lợn...) | *The sub-family Bovinae includes bison and **cattle**.* ⚠️ "cattle" = **ox + cow** gộp lại, không có số ít "a cattle" | 6.5+ | R | 🔴 |
+| **diverse** (adj) / **diversity** (n) | /daɪˈvɜːs/ | đa dạng | *Bovids are a highly **diverse** group consisting of 137 species.* | 7.0+ | P | 🔴 |
+| **territorial** (adj) | /ˌterɪˈtɔːriəl/ | có tính lãnh thổ, bảo vệ vùng đất riêng (đối lập: non-territorial) | *Unlike most other bovids, Bovinae are all **non-territorial**.* | 7.0+ | P | 🔴 |
+| **agile** (adj) | /ˈædʒaɪl/ | nhanh nhẹn, linh hoạt | *Wild goats, chamois and ibex are **agile** cliff and mountain-dwellers.* | 6.5+ | P | 🔴 |
+| **tolerance (of)** (n) | /ˈtɒlərəns/ | khả năng chịu đựng, sức chịu đựng | *Musk oxen show great **tolerance of** extreme arctic conditions.* | 7.0+ | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing Task 2 — Environment/Conservation):* Human activity has **exacerbated** the decline of many endangered species, partly through the introduction of **alien species**. **Unprecedented** conservation efforts, such as **captive-breeding programmes** designed to **reintroduce** animals into the wild, are needed to reverse this trend.
 
