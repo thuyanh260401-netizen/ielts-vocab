@@ -97,6 +97,7 @@
 | **consummate** (adj) | /kənˈsʌmɪt/ | toàn vẹn, tài ba, điêu luyện (mô tả kỹ năng/phẩm chất ở mức hoàn hảo) | *I know I sound like a **consummate** optimist, but I'm really not.* | R | 🔴 |
 | **veiled** (adj) / **thinly veiled** | /veɪld/ | che giấu, úp mở (không nói thẳng); **thinly veiled** = che giấu sơ sài, ai cũng nhận ra | *The advice often presented itself as **thinly veiled** warnings.* | P | 🔴 |
 | **resilient** (adj) / **resilience** (n) | /rɪˈzɪliənt/ | kiên cường, có khả năng phục hồi sau khó khăn | *We will grow more **resilient** because of hard things that happen to us.* | P | 🔴 |
+| **novice** (n) | /ˈnɒvɪs/ | người mới học, người mới vào nghề (trái nghĩa: **expert**). ⚠️ KHÔNG phải tên riêng — dễ nhầm nếu chưa biết từ | *To a **novice**, golfing seems easy; to an expert, it's second nature.* | P | 🔴 |
 
 ---
 *Mục 3 (dòng "The + so sánh...") và mục 4, 9 (underpinnings, potent, arousal) bổ sung từ: Cambridge 12, Test 7, Reading Passage 2 & 3.*
