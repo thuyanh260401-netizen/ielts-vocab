@@ -81,29 +81,29 @@
 ## 9. Từ vựng học thuật chung (academic — dùng nhiều chủ đề: Society/Government/Culture)
 | Từ | Phiên âm | Nghĩa | Ví dụ | Dùng | TT |
 |---|---|---|---|---|---|
-| **distinguish** (v) | /dɪˈstɪŋɡwɪʃ/ | phân biệt; **distinguish oneself** = nổi bật, gây được tiếng tăm | *It's hard to **distinguish** genuine news from fake news.* | P | 🔴 |
-| **entrenched** (adj) | /ɪnˈtrɛntʃt/ | ăn sâu, cố hữu, khó thay đổi (niềm tin/bất bình đẳng...) | *Gender inequality remains deeply **entrenched** in many societies.* | P | 🔴 |
-| **prevalent** (adj) / **prevalence** (n) | /ˈprɛvələnt/ | phổ biến, thịnh hành (hiện tượng/vấn đề xã hội) | *Obesity is becoming increasingly **prevalent** among children.* | P | 🔴 |
-| **underpinnings** (n) | /ˌʌndəˈpɪnɪŋz/ | nền tảng, cơ sở (của 1 lý thuyết/hiện tượng) | *The study reveals the precise **underpinnings** of why music moves us.* | R | 🔴 |
-| **potent** (adj) | /ˈpəʊtnt/ | mạnh mẽ, hiệu nghiệm | *Music is a **potent** pleasurable stimulus.* | P | 🔴 |
-| **arousal** (n) | /əˈraʊzl/ | sự kích thích, hưng phấn | *Our body shows all the symptoms of emotional **arousal**.* | R | 🔴 |
-| **propose** (v) | /prəˈpəʊz/ | đề xuất, đưa ra (ý kiến/lý thuyết); danh từ: **proposal** | *The researchers **propose** a new theory to explain the results.* | P | 🔴 |
-| **compromise** (n/v) | /ˈkɒmprəmaɪz/ | (n) sự thỏa hiệp; (v) thỏa hiệp — hoặc "làm tổn hại" (compromise safety) | *Both sides had to **compromise** to reach an agreement.* | P | 🔴 |
-| **ultimate** (adj) / **ultimately** (adv) | /ˈʌltɪmət/ | cuối cùng, tối thượng, căn bản nhất; **ultimately** = rốt cuộc, xét cho cùng (linking từ mạnh cho kết luận Writing) | *Ultimately, the decision rests with the government.* | P | 🔴 |
-| **intricate** (adj) / **intricacy** (n) | /ˈɪntrɪkət/ | phức tạp, tinh vi, chi tiết rắc rối | *Music can seem like a labyrinth of **intricate** patterns.* | P | 🔴 |
-| **pottery** (n, không đếm được) | /ˈpɒtəri/ | đồ gốm, nghề làm gốm (giống "furniture" — không có "a pottery"/"potteries") | *The dish is made of **pottery**.* | P | 🔴 |
-| **miserable** (adj) / **misery** (n) | /ˈmɪzərəbl/ | khổ sở, buồn bã (cảm xúc) hoặc tồi tệ (điều kiện/thời tiết). Đồng nghĩa band cao: wretched, despondent, downcast | *She felt **miserable** after losing her job.* | P | 🔴 |
-| **unsolicited** (adj) | /ˌʌnsəˈlɪsɪtɪd/ | không được yêu cầu, tự ý đưa ra (thường là lời khuyên/ý kiến) | *I try not to give anyone **unsolicited** advice unless they ask for it.* | P | 🔴 |
-| **consummate** (adj) | /kənˈsʌmɪt/ | toàn vẹn, tài ba, điêu luyện (mô tả kỹ năng/phẩm chất ở mức hoàn hảo) | *I know I sound like a **consummate** optimist, but I'm really not.* | R | 🔴 |
+| **distinguish** (v) | /dɪˈstɪŋɡwɪʃ/ 〈dis-TIN-guish〉 | phân biệt; **distinguish oneself** = nổi bật, gây được tiếng tăm | *It's hard to **distinguish** genuine news from fake news.* | P | 🔴 |
+| **entrenched** (adj) | /ɪnˈtrɛntʃt/ 〈en-TRENCHED〉 | ăn sâu, cố hữu, khó thay đổi (niềm tin/bất bình đẳng...) | *Gender inequality remains deeply **entrenched** in many societies.* | P | 🔴 |
+| **prevalent** (adj) / **prevalence** (n) | /ˈprɛvələnt/ 〈PREV-a-lent〉 | phổ biến, thịnh hành (hiện tượng/vấn đề xã hội) | *Obesity is becoming increasingly **prevalent** among children.* | P | 🔴 |
+| **underpinnings** (n) | /ˌʌndəˈpɪnɪŋz/ 〈un-der-PIN-nings〉 | nền tảng, cơ sở (của 1 lý thuyết/hiện tượng) | *The study reveals the precise **underpinnings** of why music moves us.* | R | 🔴 |
+| **potent** (adj) | /ˈpəʊtnt/ 〈PO-tent〉 | mạnh mẽ, hiệu nghiệm | *Music is a **potent** pleasurable stimulus.* | P | 🔴 |
+| **arousal** (n) | /əˈraʊzl/ 〈a-ROUS-al〉 | sự kích thích, hưng phấn | *Our body shows all the symptoms of emotional **arousal**.* | R | 🔴 |
+| **propose** (v) | /prəˈpəʊz/ 〈pro-POSE〉 | đề xuất, đưa ra (ý kiến/lý thuyết); danh từ: **proposal** | *The researchers **propose** a new theory to explain the results.* | P | 🔴 |
+| **compromise** (n/v) | /ˈkɒmprəmaɪz/ 〈COM-pro-mise〉 | (n) sự thỏa hiệp; (v) thỏa hiệp — hoặc "làm tổn hại" (compromise safety) | *Both sides had to **compromise** to reach an agreement.* | P | 🔴 |
+| **ultimate** (adj) / **ultimately** (adv) | /ˈʌltɪmət/ 〈UL-ti-mate〉 | cuối cùng, tối thượng, căn bản nhất; **ultimately** = rốt cuộc, xét cho cùng (linking từ mạnh cho kết luận Writing) | *Ultimately, the decision rests with the government.* | P | 🔴 |
+| **intricate** (adj) / **intricacy** (n) | /ˈɪntrɪkət/ 〈IN-tri-cate〉 | phức tạp, tinh vi, chi tiết rắc rối | *Music can seem like a labyrinth of **intricate** patterns.* | P | 🔴 |
+| **pottery** (n, không đếm được) | /ˈpɒtəri/ 〈POT-te-ry〉 | đồ gốm, nghề làm gốm (giống "furniture" — không có "a pottery"/"potteries") | *The dish is made of **pottery**.* | P | 🔴 |
+| **miserable** (adj) / **misery** (n) | /ˈmɪzərəbl/ 〈MIS-er-a-ble〉 | khổ sở, buồn bã (cảm xúc) hoặc tồi tệ (điều kiện/thời tiết). Đồng nghĩa band cao: wretched, despondent, downcast | *She felt **miserable** after losing her job.* | P | 🔴 |
+| **unsolicited** (adj) | /ˌʌnsəˈlɪsɪtɪd/ 〈un-so-LIC-i-ted〉 | không được yêu cầu, tự ý đưa ra (thường là lời khuyên/ý kiến) | *I try not to give anyone **unsolicited** advice unless they ask for it.* | P | 🔴 |
+| **consummate** (adj) | /kənˈsʌmɪt/ 〈con-SUM-mate〉 | toàn vẹn, tài ba, điêu luyện (mô tả kỹ năng/phẩm chất ở mức hoàn hảo) | *I know I sound like a **consummate** optimist, but I'm really not.* | R | 🔴 |
 | **veiled** (adj) / **thinly veiled** | /veɪld/ | che giấu, úp mở (không nói thẳng); **thinly veiled** = che giấu sơ sài, ai cũng nhận ra | *The advice often presented itself as **thinly veiled** warnings.* | P | 🔴 |
-| **resilient** (adj) / **resilience** (n) | /rɪˈzɪliənt/ | kiên cường, có khả năng phục hồi sau khó khăn | *We will grow more **resilient** because of hard things that happen to us.* | P | 🔴 |
-| **novice** (n) | /ˈnɒvɪs/ | người mới học, người mới vào nghề (trái nghĩa: **expert**). ⚠️ KHÔNG phải tên riêng — dễ nhầm nếu chưa biết từ | *To a **novice**, golfing seems easy; to an expert, it's second nature.* | P | 🔴 |
-| **spectator** (n) | /spekˈteɪtər/ | khán giả, người xem (đối lập player/participant) | *Being a **spectator** is a thrilling experience.* | P | 🔴 |
-| **intoxicating** (adj) | /ɪnˈtɒksɪkeɪtɪŋ/ | mê hoặc, hấp dẫn đến ngất ngây (mạnh hơn "exciting") | *The Games are **intoxicating** to watch.* | P | 🔴 |
-| **embody** (v) | /ɪmˈbɒdi/ | thể hiện, là hiện thân của (khái niệm trừu tượng) | *The Games celebrate the dream of progress as **embodied** in the human form.* | P | 🔴 |
-| **refine** (v) | /rɪˈfaɪn/ | trau dồi, hoàn thiện (kỹ năng/kỹ thuật) | *The brain chooses to retain and **refine** certain motor actions.* | P | 🔴 |
-| **resonate (with)** (v) | /ˈrezəneɪt/ | gây được sự đồng cảm/cộng hưởng (nghĩa đen: dao động cộng hưởng) | *Watching an athlete causes the motor system of the observer to **resonate**.* | P | 🔴 |
-| **goal-orientated** (adj) | /ɡəʊl ˈɔːriənteɪtɪd/ | hướng đến mục tiêu | *Mirror neurons require **goal-orientated** movements to activate.* | P | 🔴 |
+| **resilient** (adj) / **resilience** (n) | /rɪˈzɪliənt/ 〈re-SIL-ient〉 | kiên cường, có khả năng phục hồi sau khó khăn | *We will grow more **resilient** because of hard things that happen to us.* | P | 🔴 |
+| **novice** (n) | /ˈnɒvɪs/ 〈NO-vice〉 | người mới học, người mới vào nghề (trái nghĩa: **expert**). ⚠️ KHÔNG phải tên riêng — dễ nhầm nếu chưa biết từ | *To a **novice**, golfing seems easy; to an expert, it's second nature.* | P | 🔴 |
+| **spectator** (n) | /spekˈteɪtər/ 〈spec-TA-tor〉 | khán giả, người xem (đối lập player/participant) | *Being a **spectator** is a thrilling experience.* | P | 🔴 |
+| **intoxicating** (adj) | /ɪnˈtɒksɪkeɪtɪŋ/ 〈in-TOX-i-cat-ing〉 | mê hoặc, hấp dẫn đến ngất ngây (mạnh hơn "exciting") | *The Games are **intoxicating** to watch.* | P | 🔴 |
+| **embody** (v) | /ɪmˈbɒdi/ 〈em-BOD-y〉 | thể hiện, là hiện thân của (khái niệm trừu tượng) | *The Games celebrate the dream of progress as **embodied** in the human form.* | P | 🔴 |
+| **refine** (v) | /rɪˈfaɪn/ 〈re-FINE〉 | trau dồi, hoàn thiện (kỹ năng/kỹ thuật) | *The brain chooses to retain and **refine** certain motor actions.* | P | 🔴 |
+| **resonate (with)** (v) | /ˈrezəneɪt/ 〈RES-o-nate〉 | gây được sự đồng cảm/cộng hưởng (nghĩa đen: dao động cộng hưởng) | *Watching an athlete causes the motor system of the observer to **resonate**.* | P | 🔴 |
+| **goal-orientated** (adj) | /ɡəʊl ˈɔːriənteɪtɪd/ 〈goal OR-i-en-tat-ed〉 | hướng đến mục tiêu | *Mirror neurons require **goal-orientated** movements to activate.* | P | 🔴 |
 
 ---
 *Mục 3 (dòng "The + so sánh...") và mục 4, 9 (underpinnings, potent, arousal) bổ sung từ: Cambridge 12, Test 7, Reading Passage 2 & 3.*
