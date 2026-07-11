@@ -17,6 +17,7 @@
 | **deprivation** (n) / **deprive** (v) | /ˌdeprɪˈveɪʃn/ 〈de-pri-VA-tion〉 | sự thiếu thốn, tước đoạt; **deprive sb OF sth**. Từ ĐA DỤNG — dùng được nhiều chủ đề: sleep/food/social/economic/sensory deprivation | ***Sleep deprivation** can compromise the immune system.* / *Poverty **deprives** children **of** education.* | P | 🔴 |
 | **physiological** (adj) / **physiology** (n) | /ˌfɪziəˈlɒdʒɪkəl/ 〈phy-zi-o-LOJ-i-cal〉 | thuộc về sinh lý học (chức năng cơ thể). ⚠️ Dễ nhầm với **psychological** (tâm lý) | *Sleep deprivation causes serious **physiological** and psychological effects.* | P | 🔴 |
 | **contaminate** (v) / **contamination** (n) | /kənˈtæmɪneɪt/ 〈con-TAM-i-nate〉 | làm ô nhiễm, làm nhiễm bẩn/nhiễm khuẩn | *Improper sanitation can easily lead to **contamination**.* | P | 🔴 |
+| **brisk** (adj) | /brɪsk/ | (đi bộ) nhanh, nhanh nhẹn — hay đi cùng "walking" | ***Brisk walking**, jogging or team sports can strengthen bone-forming cells.* | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing/Speaking):* ...
 
