@@ -18,6 +18,12 @@
 | **physiological** (adj) / **physiology** (n) | /ˌfɪziəˈlɒdʒɪkəl/ 〈phy-zi-o-LOJ-i-cal〉 | thuộc về sinh lý học (chức năng cơ thể). ⚠️ Dễ nhầm với **psychological** (tâm lý) | *Sleep deprivation causes serious **physiological** and psychological effects.* | P | 🔴 |
 | **contaminate** (v) / **contamination** (n) | /kənˈtæmɪneɪt/ 〈con-TAM-i-nate〉 | làm ô nhiễm, làm nhiễm bẩn/nhiễm khuẩn | *Improper sanitation can easily lead to **contamination**.* | P | 🔴 |
 | **brisk** (adj) | /brɪsk/ | (đi bộ) nhanh, nhanh nhẹn — hay đi cùng "walking" | ***Brisk walking**, jogging or team sports can strengthen bone-forming cells.* | P | 🔴 |
+| **make strides (in)** | /meɪk straɪdz/ | đạt bước tiến lớn (mạnh hơn "improve") | *Sports technology is **making large strides in** aiding athletes.* | P | 🔴 |
+| **embrace** (v) | /ɪmˈbreɪs/ 〈em-BRACE〉 | đón nhận, chấp nhận (thay đổi/công nghệ mới) | *Athletes have happily **embraced** such technologies.* | P | 🔴 |
+| **push (one's) limits** | /pʊʃ lɪmɪts/ | vượt qua giới hạn bản thân | *Technology helps athletes **push their limits** and reach maximum potential.* | P | 🔴 |
+| **stamina** (n) | /ˈstæmɪnə/ 〈STAM-i-na〉 | sức bền, sức chịu đựng | ***Stamina** training is vitally important for long-distance running.* | P | 🔴 |
+| **ease** (v) | /iːz/ | làm dịu, giảm bớt (đau/căng thẳng) | *Fish oil pills can **ease** muscle pain and inflammation.* | P | 🔴 |
+| **vitally important** | /ˈvaɪtəli ɪmˈpɔːtənt/ 〈VI-tal-ly〉 | cực kỳ quan trọng | *Stamina training is **vitally important** for athletes.* | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing/Speaking):* ...
 
