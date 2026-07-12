@@ -13,5 +13,6 @@
 | **tenant** | /ˈten.ənt/ 〈TEN-ant〉 | người thuê nhà (đối lập với landlord) | The **tenant** must pay a deposit before moving in. | P | 🔴 |
 | **slippery** (adj) | /ˈslɪpəri/ 〈SLIP-pe-ry〉 | trơn, dễ trượt | Floor coverings **that aren't slippery** improve safety. ⚠️ nhớ cả cụm phủ định "aren't slippery" | P | 🔴 |
 | **adjacent (to)** | /əˈdʒeɪsənt/ 〈ad-JA-cent〉 | liền kề, ngay cạnh — rất hay dùng trong đề dạng bản đồ/vị trí | The building is directly **adjacent to** the campus garden. | P | 🔴 |
+| **lounge** (n) | /laʊndʒ/ | phòng chờ, sảnh nghỉ ngơi (khách sạn/sân bay/nhà riêng) — ⚠️ dễ nghe nhầm thành "garden" | *We have a big **lounge** on the ground floor for guests to rest.* | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing/Speaking):* ...

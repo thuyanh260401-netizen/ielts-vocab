@@ -19,6 +19,8 @@
 | **territorial** (adj) | /ˌterɪˈtɔːriəl/ 〈ter-ri-TOR-i-al〉 | có tính lãnh thổ, bảo vệ vùng đất riêng (đối lập: non-territorial) | *Unlike most other bovids, Bovinae are all **non-territorial**.* | 7.0+ | P | 🔴 |
 | **agile** (adj) | /ˈædʒaɪl/ 〈AG-ile〉 | nhanh nhẹn, linh hoạt | *Wild goats, chamois and ibex are **agile** cliff and mountain-dwellers.* | 6.5+ | P | 🔴 |
 | **tolerance (of)** (n) | /ˈtɒlərəns/ 〈TOL-e-rance〉 | khả năng chịu đựng, sức chịu đựng | *Musk oxen show great **tolerance of** extreme arctic conditions.* | 7.0+ | P | 🔴 |
+| **yield** (n/v) | /jiːld/ | (n) sản lượng, năng suất; (v) sinh ra, mang lại | *Farmers used fertilizer to increase crop **yields**.* | 7.0+ | P | 🔴 |
+| **seep (into)** (v) | /siːp/ | rò rỉ, thấm dần (chất lỏng/ô nhiễm lan ra từ từ) | *Fertilizer started to **seep into** the water, killing part of the forest.* | 7.0+ | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing Task 2 — Environment/Conservation):* Human activity has **exacerbated** the decline of many endangered species, partly through the introduction of **alien species**. **Unprecedented** conservation efforts, such as **captive-breeding programmes** designed to **reintroduce** animals into the wild, are needed to reverse this trend.
 
