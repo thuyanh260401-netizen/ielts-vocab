@@ -21,6 +21,7 @@
 | **tolerance (of)** (n) | /ˈtɒlərəns/ 〈TOL-e-rance〉 | khả năng chịu đựng, sức chịu đựng | *Musk oxen show great **tolerance of** extreme arctic conditions.* | 7.0+ | P | 🔴 |
 | **yield** (n/v) | /jiːld/ | (n) sản lượng, năng suất; (v) sinh ra, mang lại | *Farmers used fertilizer to increase crop **yields**.* | 7.0+ | P | 🔴 |
 | **seep (into)** (v) | /siːp/ | rò rỉ, thấm dần (chất lỏng/ô nhiễm lan ra từ từ) | *Fertilizer started to **seep into** the water, killing part of the forest.* | 7.0+ | P | 🔴 |
+| **estuary** (n) | /ˈestjʊəri/ 〈ES-tu-a-ry〉 | cửa sông (nơi sông đổ ra biển, nước ngọt/mặn hòa lẫn) | *Mangrove forests are found along river **estuaries** and coastlines.* | 7.0+ | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing Task 2 — Environment/Conservation):* Human activity has **exacerbated** the decline of many endangered species, partly through the introduction of **alien species**. **Unprecedented** conservation efforts, such as **captive-breeding programmes** designed to **reintroduce** animals into the wild, are needed to reverse this trend.
 
