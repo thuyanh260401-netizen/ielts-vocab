@@ -21,6 +21,7 @@
 | **social mobility** | /ˈsəʊʃəl məʊˈbɪləti/ 〈SO-cial mo-BIL-i-ty〉 | khả năng thay đổi tầng lớp xã hội (đi lên/xuống) | *Education is key to improving **social mobility**.* | 7.5+ | P | 🔴 |
 | **self-made** (adj) | /ˌself ˈmeɪd/ | tự thân lập nghiệp, không nhờ ai | ***Self-made** entrepreneurs built their wealth without government funding.* | 7.0+ | P | 🔴 |
 | **upskill** (v) | /ˈʌpskɪl/ | nâng cao kỹ năng | *Workers need to **upskill** to remain competitive in the job market.* | 7.0+ | P | 🔴 |
+| **marginalized** (adj) | /ˈmɑːdʒɪnəlaɪzd/ 〈MAR-gin-al-ized〉 | bị gạt ra ngoài lề, bị xem nhẹ trong xã hội | *Social media can give a voice to those who have traditionally been **marginalized**.* | 7.5+ | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing Task 2 — chủ đề Poverty/Government role):* Chính phủ nên xây dựng **social safety nets** và **public welfare programmes** để **address poverty** và **reduce vulnerability** của nhóm dân cư dễ bị ảnh hưởng bởi **agriculture shocks** hay khủng hoảng kinh tế. Một số quốc gia (vd. các chương trình an sinh ở Bắc Âu) thường được **held up as** hình mẫu thành công.
 
