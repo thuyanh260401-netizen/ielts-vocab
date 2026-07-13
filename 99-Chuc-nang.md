@@ -37,6 +37,7 @@
 | **Stative verbs KHÔNG dùng dạng tiếp diễn khi mô tả tính chất** | Động từ trạng thái (taste, smell, sound, look, know, believe...) khi mô tả TÍNH CHẤT CỐ HỮU thì KHÔNG chia "be + V-ing". Sau đó dùng TÍNH TỪ, không phải trạng từ | ✅ *The cake **tastes delicious**.* ❌ ~~The cake is tasting deliciously.~~ (chỉ dùng "be tasting" khi mô tả HÀNH ĐỘNG nếm: *She is tasting the soup to check the salt.*) | 🔴 |
 | **suggest/recommend/insist + S + V nguyên mẫu (subjunctive)** | Sau các động từ đề xuất/yêu cầu (suggest, recommend, insist, demand, propose), mệnh đề theo sau dùng V NGUYÊN MẪU (không chia thì, không V-ing) dù chủ ngữ là gì | *I **suggest we repair** the handle.* (không phải "repairing"/"repairs") / *The doctor **recommended she rest**.* | 🔴 |
 | **be up for + V-ing/danh từ** | = sẵn sàng/hứng thú làm gì (thường dùng câu hỏi/phủ định). Giống "to + V-ing" (downside to, look forward to), sau giới từ dùng V-ing chứ không phải V nguyên mẫu | *If you're not **up for walking**, take a bike.* / *Are you **up for a challenge**?* | 🔴 |
+| **make the most of + something** | = tận dụng tối đa, sử dụng hiệu quả nhất. LUÔN có "the" ở giữa, không được bỏ | *We don't think we're **making the most of** this room.* / *Make the most of your time at university.* | 🔴 |
 
 ## 4. Cặp PARAPHRASE (đề ↔ audio/bài đọc)
 | Từ trong ĐỀ | Từ đồng nghĩa trong AUDIO/BÀI | TT |
