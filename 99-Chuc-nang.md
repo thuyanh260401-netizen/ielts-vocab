@@ -14,6 +14,7 @@
 | **distinguish** /dɪˈstɪŋɡwɪʃ/ (v: phân biệt) | **extinguish** /ɪkˈstɪŋɡwɪʃ/ (v: dập tắt — lửa/hy vọng) | Mặt chữ rất giống nhau (cùng đuôi "-tinguish") nhưng nghĩa khác hẳn. *He couldn't **distinguish** the twins.* ≠ *Firefighters **extinguished** the blaze.* | 🔴 |
 | **assess** /əˈses/ (v: đánh giá) | **access** /ˈækses/ (v/n: truy cập, tiếp cận) | Gần âm nhưng nghĩa khác hẳn, dễ nhầm ở dạng bị động "was assessed". *Presentations **were assessed** by lecturers.* ≠ *Students can **access** the library online.* | 🔴 |
 | **affect** /əˈfekt/ (v: ảnh hưởng đến) | **effect** /ɪˈfekt/ (n: hiệu ứng, kết quả) | Gần âm, khác từ loại — affect là ĐỘNG TỪ, effect là DANH TỪ. *This didn't **affect** the grades.* (v) ≠ *the **effect** of sleep deprivation* (n) | 🔴 |
+| **shed** /ʃed/ (n: nhà kho/lán nhỏ) | **shade** /ʃeɪd/ (n: bóng râm) | Khác nguyên âm /e/ ngắn vs /eɪ/. *We have bike **sheds** across the zoo.* ≠ *Sit in the **shade** to avoid the sun.* | 🔴 |
 
 ## 2. Từ ĐỒNG ÂM (phát âm giống hệt nhau — chỉ phân biệt qua ngữ cảnh + chính tả)
 | Từ 1 | Từ 2 | Cách phân biệt | TT |
