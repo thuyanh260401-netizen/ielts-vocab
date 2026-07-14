@@ -35,6 +35,7 @@
 | Travel & Tourism (Du lịch & Giao thông) | [09-Travel-Tourism.md](09-Travel-Tourism.md) | ✅ có nội dung |
 | Media & Communication (Truyền thông) | [10-Media-Communication.md](10-Media-Communication.md) | ✅ có nội dung |
 | Government & Society issues (Chính phủ & vấn đề xã hội) | [12-Government-Society.md](12-Government-Society.md) | ✅ có nội dung |
+| **Bảng từ đếm được/không đếm được** (theo dõi lỗi số ít/nhiều) | [98-Dem-duoc-Khong-dem-duoc.md](98-Dem-duoc-Khong-dem-duoc.md) | ✅ có nội dung |
 | **Danh sách chức năng** (minimal pairs, đồng âm, paraphrase, chính tả, ngữ pháp) | [99-Chuc-nang.md](99-Chuc-nang.md) | ✅ có nội dung |
 
 > Các chủ đề khác (Technology, Society & Family, Crime...)
