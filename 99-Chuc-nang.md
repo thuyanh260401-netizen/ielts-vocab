@@ -15,6 +15,8 @@
 | **assess** /əˈses/ (v: đánh giá) | **access** /ˈækses/ (v/n: truy cập, tiếp cận) | Gần âm nhưng nghĩa khác hẳn, dễ nhầm ở dạng bị động "was assessed". *Presentations **were assessed** by lecturers.* ≠ *Students can **access** the library online.* | 🔴 |
 | **affect** /əˈfekt/ (v: ảnh hưởng đến) | **effect** /ɪˈfekt/ (n: hiệu ứng, kết quả) | Gần âm, khác từ loại — affect là ĐỘNG TỪ, effect là DANH TỪ. *This didn't **affect** the grades.* (v) ≠ *the **effect** of sleep deprivation* (n) | 🔴 |
 | **shed** /ʃed/ (n: nhà kho/lán nhỏ) | **shade** /ʃeɪd/ (n: bóng râm) | Khác nguyên âm /e/ ngắn vs /eɪ/. *We have bike **sheds** across the zoo.* ≠ *Sit in the **shade** to avoid the sun.* | 🔴 |
+| **decay** /dɪˈkeɪ/ 〈de-CAY〉 (v: phân hủy, mục rữa) | **decade** /ˈdekeɪd/ 〈DEC-ade〉 (n: thập kỷ) | Gần âm nhưng trọng âm khác hẳn (decay nhấn âm sau, decade nhấn âm đầu). *The bones eventually **decay** and are replaced by minerals.* ≠ *This happened over the past **decade**.* | 🔴 |
+| **over time** (2 từ: theo thời gian, dần dần) | **overtime** /ˈəʊvətaɪm/ (1 từ, n: giờ làm thêm) | Viết liền/tách quyết định nghĩa hoàn toàn khác nhau. ***Over time**, the mud hardens around the bones.* ≠ *He works **overtime** every weekend.* | 🔴 |
 
 ## 2. Từ ĐỒNG ÂM (phát âm giống hệt nhau — chỉ phân biệt qua ngữ cảnh + chính tả)
 | Từ 1 | Từ 2 | Cách phân biệt | TT |
