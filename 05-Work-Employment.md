@@ -13,5 +13,6 @@
 | **outweigh** (v) | /aʊtˈweɪ/ 〈out-WEIGH〉 | vượt trội hơn, nhiều hơn (khi so sánh lợi/hại) | *The disadvantages far **outweigh** the advantages.* | P | 🔴 |
 | **be borne out** | /bɔːn aʊt/ | được chứng minh/xác nhận là đúng | *The health risk claim does seem to **be borne out** by staff records.* | P | 🔴 |
 | **under the watchful eye of** | /ˈwɒtʃfʊl aɪ/ 〈WATCH-ful eye〉 | dưới sự giám sát/để mắt kỹ của ai đó | *Workers sat in rows **under the watchful eye of** their supervisor.* | P | 🔴 |
+| **work away at** (sth) | /wɜːk əˈweɪ æt/ 〈work a-WAY at〉 | miệt mài, cần cù làm việc gì liên tục | *Typists **worked away at** their typewriters all day.* | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing/Speaking):* ...
