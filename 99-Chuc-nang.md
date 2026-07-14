@@ -86,6 +86,7 @@
 | **by definition** | /baɪ ˌdɛfɪˈnɪʃ(ə)n/ | theo đúng bản chất/định nghĩa, đương nhiên là vậy — dùng để lập luận chắc chắn | *A monopoly is, **by definition**, a market with only one seller.* | 🔴 |
 | **in light of** = **considering** = **taking into account** = **because of** = **in view of** | /ɪn laɪt əv/ | xét đến, vì lý do... (nêu cơ sở lập luận). Nhóm đồng nghĩa — luân phiên dùng để tránh lặp từ, tăng Lexical Resource | *In light of recent events, the policy has been revised.* / *Considering the cost, ...* / *In view of the evidence, ...* | 🔴 |
 | **counter-intuitively** | /ˌkaʊntərˌɪnˈtjuːɪtɪvli/ | trái với trực giác thông thường — mở đầu lập luận bất ngờ | *Counter-intuitively, working fewer hours can increase productivity.* | 🔴 |
+| **on the contrary** | /ɒn ðə ˈkɒntrəri/ 〈on the CON-tra-ry〉 | ngược lại (phản bác ý vừa nêu) — khác "on the other hand" (đưa ra khía cạnh khác, không hẳn phản bác) | *People who take the same subjects usually have similar opinions; **on the contrary**, those in different fields tend to disagree.* | 🔴 |
 
 ## 9. Từ vựng học thuật chung (academic — dùng nhiều chủ đề: Society/Government/Culture)
 | Từ | Phiên âm | Nghĩa | Ví dụ | Dùng | TT |
@@ -113,6 +114,8 @@
 | **refine** (v) | /rɪˈfaɪn/ 〈re-FINE〉 | trau dồi, hoàn thiện (kỹ năng/kỹ thuật) | *The brain chooses to retain and **refine** certain motor actions.* | P | 🔴 |
 | **resonate (with)** (v) | /ˈrezəneɪt/ 〈RES-o-nate〉 | gây được sự đồng cảm/cộng hưởng (nghĩa đen: dao động cộng hưởng) | *Watching an athlete causes the motor system of the observer to **resonate**.* | P | 🔴 |
 | **goal-orientated** (adj) | /ɡəʊl ˈɔːriənteɪtɪd/ 〈goal OR-i-en-tat-ed〉 | hướng đến mục tiêu | *Mirror neurons require **goal-orientated** movements to activate.* | P | 🔴 |
+| **narrow** (adj) | /ˈnærəʊ/ 〈NAR-row〉 | hẹp, thiếu đa dạng/đại diện (mô tả mẫu nghiên cứu/phạm vi quan điểm) | *Interviewing only your friends makes the sample too **narrow** to be viable.* | P | 🔴 |
+| **viable** (adj) | /ˈvaɪəbl/ 〈VI-a-ble〉 | khả thi, đáng tin cậy (kết quả/phương án) | *A small, narrow sample isn't statistically **viable**.* | P | 🔴 |
 
 ---
 *Mục 3 (dòng "The + so sánh...") và mục 4, 9 (underpinnings, potent, arousal) bổ sung từ: Cambridge 12, Test 7, Reading Passage 2 & 3.*
