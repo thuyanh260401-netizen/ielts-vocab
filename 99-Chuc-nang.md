@@ -88,6 +88,7 @@
 | **by definition** | /baɪ ˌdɛfɪˈnɪʃ(ə)n/ | theo đúng bản chất/định nghĩa, đương nhiên là vậy — dùng để lập luận chắc chắn | *A monopoly is, **by definition**, a market with only one seller.* | 🔴 |
 | **in light of** = **considering** = **taking into account** = **because of** = **in view of** | /ɪn laɪt əv/ | xét đến, vì lý do... (nêu cơ sở lập luận). Nhóm đồng nghĩa — luân phiên dùng để tránh lặp từ, tăng Lexical Resource | *In light of recent events, the policy has been revised.* / *Considering the cost, ...* / *In view of the evidence, ...* | 🔴 |
 | **counter-intuitively** | /ˌkaʊntərˌɪnˈtjuːɪtɪvli/ | trái với trực giác thông thường — mở đầu lập luận bất ngờ | *Counter-intuitively, working fewer hours can increase productivity.* | 🔴 |
+| **to some extent** | /tə sʌm ɪkˈstent/ 〈to some ex-TENT〉 | ở một mức độ nào đó — dùng để đồng ý/phản đối MỘT PHẦN. ⚠️ "extent" luôn số ít, không có "extents" | *To some extent, I agree with this statement.* / *To what extent do you agree?* (dạng câu hỏi Writing Task 2 phổ biến) | 🔴 |
 | **on the contrary** | /ɒn ðə ˈkɒntrəri/ 〈on the CON-tra-ry〉 | ngược lại (phản bác ý vừa nêu) — khác "on the other hand" (đưa ra khía cạnh khác, không hẳn phản bác) | *People who take the same subjects usually have similar opinions; **on the contrary**, those in different fields tend to disagree.* | 🔴 |
 
 ## 9. Từ vựng học thuật chung (academic — dùng nhiều chủ đề: Society/Government/Culture)
