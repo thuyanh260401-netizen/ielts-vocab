@@ -117,6 +117,7 @@
 | **resonate (with)** (v) | /ˈrezəneɪt/ 〈RES-o-nate〉 | gây được sự đồng cảm/cộng hưởng (nghĩa đen: dao động cộng hưởng) | *Watching an athlete causes the motor system of the observer to **resonate**.* | P | 🔴 |
 | **goal-orientated** (adj) | /ɡəʊl ˈɔːriənteɪtɪd/ 〈goal OR-i-en-tat-ed〉 | hướng đến mục tiêu | *Mirror neurons require **goal-orientated** movements to activate.* | P | 🔴 |
 | **narrow** (adj) | /ˈnærəʊ/ 〈NAR-row〉 | hẹp, thiếu đa dạng/đại diện (mô tả mẫu nghiên cứu/phạm vi quan điểm) | *Interviewing only your friends makes the sample too **narrow** to be viable.* | P | 🔴 |
+| **posted** (adj/v, be posted) | /ˈpəʊstɪd/ 〈POST-ed〉 | được cử/điều đến đóng ở đâu đó (thường dùng cho quân đội/nhân viên ngoại giao) | *Scottish soldiers **posted** in Canada enjoyed playing curling on frozen lakes.* | R | 🔴 |
 | **viable** (adj) | /ˈvaɪəbl/ 〈VI-a-ble〉 | khả thi, đáng tin cậy (kết quả/phương án) | *A small, narrow sample isn't statistically **viable**.* | P | 🔴 |
 
 ---
