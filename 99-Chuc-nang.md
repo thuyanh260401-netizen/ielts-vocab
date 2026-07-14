@@ -95,6 +95,7 @@
 | Từ | Phiên âm | Nghĩa | Ví dụ | Dùng | TT |
 |---|---|---|---|---|---|
 | **distinguish** (v) | /dɪˈstɪŋɡwɪʃ/ 〈dis-TIN-guish〉 | phân biệt; **distinguish oneself** = nổi bật, gây được tiếng tăm | *It's hard to **distinguish** genuine news from fake news.* | P | 🔴 |
+| **intrigue** (v) / **intrigued** (adj) | /ɪnˈtriːɡ/ 〈in-TRIGUE〉 | khơi gợi sự tò mò, làm ai đó thấy hấp dẫn/tò mò muốn tìm hiểu | *I was **intrigued** by this possibility, so I looked into the staff records.* | P | 🔴 |
 | **entrenched** (adj) | /ɪnˈtrɛntʃt/ 〈en-TRENCHED〉 | ăn sâu, cố hữu, khó thay đổi (niềm tin/bất bình đẳng...) | *Gender inequality remains deeply **entrenched** in many societies.* | P | 🔴 |
 | **prevalent** (adj) / **prevalence** (n) | /ˈprɛvələnt/ 〈PREV-a-lent〉 | phổ biến, thịnh hành (hiện tượng/vấn đề xã hội) | *Obesity is becoming increasingly **prevalent** among children.* | P | 🔴 |
 | **underpinnings** (n) | /ˌʌndəˈpɪnɪŋz/ 〈un-der-PIN-nings〉 | nền tảng, cơ sở (của 1 lý thuyết/hiện tượng) | *The study reveals the precise **underpinnings** of why music moves us.* | R | 🔴 |
