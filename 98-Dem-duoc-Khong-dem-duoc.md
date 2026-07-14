@@ -20,6 +20,8 @@
 | **estuary / estuaries** | Đ | Đếm được — mỗi cửa sông là 1 thực thể riêng | *Mangroves grow along river **estuaries**.* | Full test 13/07 (Sec 4) |
 | **selection(s)** | Đ | Đếm được | *Music **selections** varied by mood.* | (ghi nhận từ sổ lỗi) |
 | **presentation(s)** | Đ | Đếm được — mỗi bài thuyết trình là 1 đơn vị | *All **presentations** were assessed individually.* | Full test 13/07 Q24 |
+| **stone** | Cả 2 | KĐ khi nói về đá như CHẤT LIỆU xây dựng nói chung (không đếm); Đ (số nhiều "stones") khi nói đến CÁC VIÊN ĐÁ cụ thể (vd. đá cong trong môn curling) | *The house was made of **stone**.* (chất liệu, KĐ) ≠ *Curling **stones** are made from granite.* (vật thể cụ thể, Đ) | Full test 14/07 #2 Q5 — thêm "s" thừa khi nói vật liệu xây dựng |
+| **screen(s)** | Đ | Đếm được — mỗi vách ngăn/màn hình là 1 vật thể | *Cubicles had high or low **screens**.* | Full test 14/07 #2 Q33 — thiếu "s" |
 
 ## Nhóm B — Cần nhớ vì DỄ NHẦM là ngược lại quy tắc thông thường
 
