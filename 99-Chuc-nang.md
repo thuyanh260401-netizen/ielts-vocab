@@ -67,6 +67,10 @@
 |---|---|---|---|---|---|
 | **inquire about** (sth) | /ɪnˈkwaɪər/ | hỏi thăm/thắc mắc về việc gì (formal) | I'd like to **inquire about** the rental price. | P | 🔴 |
 
+| **lay the groundwork for** | /leɪ ðə ˈɡraʊndwɜːk fɔː/ | đặt nền móng, tạo tiền đề cho việc gì | *We try to **lay the groundwork for** this by encouraging kids to become involved at the zoo.* | P | 🔴 |
+| **prove yourself** | /pruːv jɔːˈself/ | chứng tỏ bản thân, khẳng định năng lực | *When you're on placement, you're always trying to **prove yourself**.* | P | 🔴 |
+| **distract from** | /dɪˈstrækt frɒm/ | làm sao nhãng, làm giảm sự chú ý khỏi (điều gì) | *The dikes **distract from** the natural beauty of the landscape.* | P | 🔴 |
+
 ## 7. Idioms/thành ngữ (⚠️ chỉ dùng Speaking, TRÁNH trong Writing — quá thân mật)
 | Idiom | Phiên âm | Nghĩa | Ví dụ | Mức độ trang trọng | TT |
 |---|---|---|---|---|---|
@@ -108,6 +112,11 @@
 | **pottery** (n, không đếm được) | /ˈpɒtəri/ 〈POT-te-ry〉 | đồ gốm, nghề làm gốm (giống "furniture" — không có "a pottery"/"potteries") | *The dish is made of **pottery**.* | P | 🔴 |
 | **dull** (adj) | /dʌl/ 〈DULL〉 | nhàm chán, tẻ nhạt (đồng nghĩa boring); cũng có nghĩa "mờ đục, không sắc bén" (dull knife, dull pain) | *The dullest part of the process was a psychometric test.* | P | 🔴 |
 | **derive [sth] from [doing sth]** (collocation) | /dɪˈraɪv/ 〈de-RIVE〉 | có được/rút ra được (cảm xúc/lợi ích) từ việc gì | *I **derive the most delight and pleasure from doing** this job, especially when I see injured animals restoring to good health.* | P | 🔴 |
+| **on behalf of** | /ɒn bɪˈhɑːf əv/ 〈on be-HALF of〉 | thay mặt cho, đại diện cho | *I am here **on behalf of** the San Martin Zoo to tell you about my job.* | P | 🔴 |
+| **first-hand knowledge** | /ˌfɜːstˈhænd ˈnɒlɪdʒ/ 〈first-HAND KNOW-ledge〉 | kiến thức trực tiếp/kinh nghiệm thực tế (không qua sách vở) | *I have been so lucky to get the **first-hand knowledge** from many of my workmates here.* | P | 🔴 |
+| **vulnerable to** | /ˈvʌlnərəbl tuː/ 〈VUL-ner-a-ble to〉 | dễ bị tổn thương/ảnh hưởng bởi (bệnh tật, rủi ro...) | *Newborn animals are very **vulnerable to** all types of disease.* | P | 🔴 |
+| **renowned for** | /rɪˈnaʊnd fɔː/ 〈re-NOWNED for〉 | nổi tiếng vì (đặc điểm/kỹ năng gì) | *Engineers are **renowned for** being a bit unsociable.* | P | 🔴 |
+| **reflect the importance of** | /rɪˈflekt ðə ɪmˈpɔːtəns əv/ | phản ánh tầm quan trọng của | *State laws now **reflect the importance** and growing appreciation of marshes.* | P | 🔴 |
 | **miserable** (adj) / **misery** (n) | /ˈmɪzərəbl/ 〈MIS-er-a-ble〉 | khổ sở, buồn bã (cảm xúc) hoặc tồi tệ (điều kiện/thời tiết). Đồng nghĩa band cao: wretched, despondent, downcast | *She felt **miserable** after losing her job.* | P | 🔴 |
 | **unsolicited** (adj) | /ˌʌnsəˈlɪsɪtɪd/ 〈un-so-LIC-i-ted〉 | không được yêu cầu, tự ý đưa ra (thường là lời khuyên/ý kiến) | *I try not to give anyone **unsolicited** advice unless they ask for it.* | P | 🔴 |
 | **consummate** (adj) | /kənˈsʌmɪt/ 〈con-SUM-mate〉 | toàn vẹn, tài ba, điêu luyện (mô tả kỹ năng/phẩm chất ở mức hoàn hảo) | *I know I sound like a **consummate** optimist, but I'm really not.* | R | 🔴 |
