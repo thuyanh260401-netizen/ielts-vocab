@@ -107,6 +107,7 @@
 | **intricate** (adj) / **intricacy** (n) | /ˈɪntrɪkət/ 〈IN-tri-cate〉 | phức tạp, tinh vi, chi tiết rắc rối | *Music can seem like a labyrinth of **intricate** patterns.* | P | 🔴 |
 | **pottery** (n, không đếm được) | /ˈpɒtəri/ 〈POT-te-ry〉 | đồ gốm, nghề làm gốm (giống "furniture" — không có "a pottery"/"potteries") | *The dish is made of **pottery**.* | P | 🔴 |
 | **dull** (adj) | /dʌl/ 〈DULL〉 | nhàm chán, tẻ nhạt (đồng nghĩa boring); cũng có nghĩa "mờ đục, không sắc bén" (dull knife, dull pain) | *The dullest part of the process was a psychometric test.* | P | 🔴 |
+| **derive [sth] from [doing sth]** (collocation) | /dɪˈraɪv/ 〈de-RIVE〉 | có được/rút ra được (cảm xúc/lợi ích) từ việc gì | *I **derive the most delight and pleasure from doing** this job, especially when I see injured animals restoring to good health.* | P | 🔴 |
 | **miserable** (adj) / **misery** (n) | /ˈmɪzərəbl/ 〈MIS-er-a-ble〉 | khổ sở, buồn bã (cảm xúc) hoặc tồi tệ (điều kiện/thời tiết). Đồng nghĩa band cao: wretched, despondent, downcast | *She felt **miserable** after losing her job.* | P | 🔴 |
 | **unsolicited** (adj) | /ˌʌnsəˈlɪsɪtɪd/ 〈un-so-LIC-i-ted〉 | không được yêu cầu, tự ý đưa ra (thường là lời khuyên/ý kiến) | *I try not to give anyone **unsolicited** advice unless they ask for it.* | P | 🔴 |
 | **consummate** (adj) | /kənˈsʌmɪt/ 〈con-SUM-mate〉 | toàn vẹn, tài ba, điêu luyện (mô tả kỹ năng/phẩm chất ở mức hoàn hảo) | *I know I sound like a **consummate** optimist, but I'm really not.* | R | 🔴 |
