@@ -140,6 +140,7 @@
 | **philanthropy** (n) / **philanthropic** (adj) | /fɪˈlænθrəpi/ 〈phi-LAN-thro-py〉 | hoạt động từ thiện, làm việc thiện vì lợi ích cộng đồng | *Through its **philanthropy**, the company created a foundation to promote humane farming.* | P | 🔴 |
 | **blank slate** (khái niệm/ẩn dụ) | /blæŋk sleɪt/ 〈blank SLATE〉 | tờ giấy trắng — ẩn dụ chỉ ý tưởng con người sinh ra không có kiến thức/bản năng sẵn có (trái ngược "innate knowledge") | *Evolutionary psychology dismisses the assumption that our minds are like **blank slates** waiting for experience to shape them.* | P | 🔴 |
 | **innate** (adj) | /ɪˈneɪt/ 〈in-NATE〉 | bẩm sinh, vốn có từ khi sinh ra (đối lập "learned/acquired") | *It takes very little to trigger people's **innate** distrust of strangers.* | P | 🔴 |
+| **dismiss** (v) | /dɪsˈmɪs/ 〈dis-MISS〉 | bác bỏ, gạt bỏ (một ý kiến/giả định) coi là không đáng xem xét; cũng có nghĩa "cho nghỉ việc/cho ra về" | *Evolutionary psychology **dismisses** the long-held assumption that our minds are like blank pages.* | P | 🔴 |
 
 ---
 *Mục 3 (dòng "The + so sánh...") và mục 4, 9 (underpinnings, potent, arousal) bổ sung từ: Cambridge 12, Test 7, Reading Passage 2 & 3.*
