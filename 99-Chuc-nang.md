@@ -132,6 +132,14 @@
 | **narrow** (adj) | /ˈnærəʊ/ 〈NAR-row〉 | hẹp, thiếu đa dạng/đại diện (mô tả mẫu nghiên cứu/phạm vi quan điểm) | *Interviewing only your friends makes the sample too **narrow** to be viable.* | P | 🔴 |
 | **posted** (adj/v, be posted) | /ˈpəʊstɪd/ 〈POST-ed〉 | được cử/điều đến đóng ở đâu đó (thường dùng cho quân đội/nhân viên ngoại giao) | *Scottish soldiers **posted** in Canada enjoyed playing curling on frozen lakes.* | R | 🔴 |
 | **viable** (adj) | /ˈvaɪəbl/ 〈VI-a-ble〉 | khả thi, đáng tin cậy (kết quả/phương án) | *A small, narrow sample isn't statistically **viable**.* | P | 🔴 |
+| **vicious cycle** | /ˈvɪʃəs ˈsaɪkl/ 〈VI-cious CY-cle〉 | vòng luẩn quẩn, cái vòng xấu tự lặp lại và ngày càng tệ hơn | *Their **vicious cycle** was only broken by the willingness of a village elder to try something different.* | P | 🔴 |
+| **decimate** (v) | /ˈdesɪmeɪt/ 〈DEC-i-mate〉 | tàn phá, tiêu diệt phần lớn (số lượng lớn) | *Insecticides had already **decimated** the birds, wasps, and beetles that once controlled pests naturally.* | P | 🔴 |
+| **gather momentum** | /ˈɡæðər məˈmentəm/ 〈GA-ther mo-MEN-tum〉 | tăng đà, ngày càng lan rộng/mạnh hơn | *The change **gathered momentum** as NPM became even more effective once everyone was using it.* | P | 🔴 |
+| **tacit** (adj) | /ˈtæsɪt/ 〈TA-cit〉 | ngầm hiểu, không nói ra nhưng được chấp nhận | *Every company needs **tacit** or explicit permission from governments and communities.* | P | 🔴 |
+| **have a stake in** | /hæv ə steɪk ɪn/ 〈have a STAKE in〉 | có lợi ích/phần liên quan trong việc gì | *A business applies its resources to problems it understands and in which it **has a stake**.* | P | 🔴 |
+| **philanthropy** (n) / **philanthropic** (adj) | /fɪˈlænθrəpi/ 〈phi-LAN-thro-py〉 | hoạt động từ thiện, làm việc thiện vì lợi ích cộng đồng | *Through its **philanthropy**, the company created a foundation to promote humane farming.* | P | 🔴 |
+| **blank slate** (khái niệm/ẩn dụ) | /blæŋk sleɪt/ 〈blank SLATE〉 | tờ giấy trắng — ẩn dụ chỉ ý tưởng con người sinh ra không có kiến thức/bản năng sẵn có (trái ngược "innate knowledge") | *Evolutionary psychology dismisses the assumption that our minds are like **blank slates** waiting for experience to shape them.* | P | 🔴 |
+| **innate** (adj) | /ɪˈneɪt/ 〈in-NATE〉 | bẩm sinh, vốn có từ khi sinh ra (đối lập "learned/acquired") | *It takes very little to trigger people's **innate** distrust of strangers.* | P | 🔴 |
 
 ---
 *Mục 3 (dòng "The + so sánh...") và mục 4, 9 (underpinnings, potent, arousal) bổ sung từ: Cambridge 12, Test 7, Reading Passage 2 & 3.*
