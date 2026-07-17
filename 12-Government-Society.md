@@ -8,6 +8,7 @@
 | **public welfare programmes** | /ˈpʌblɪk ˈwelfeər ˈprəʊɡræmz/ | chương trình phúc lợi công cộng | *Public welfare programmes help reduce income inequality.* | 7.5+ | P | 🔴 |
 | **held up as** | /held ʌp æz/ | được xem như/ca ngợi là (một hình mẫu, ví dụ điển hình) | *This country is often **held up as** a model of poverty reduction.* | 7.5+ | P | 🔴 |
 | **address poverty** | /əˈdres ˈpɒvəti/ 〈ad-DRESS POV-er-ty〉 | giải quyết/đối phó với vấn đề nghèo đói | *The policy aims to **address poverty** in rural areas.* | 7.0+ | P | 🔴 |
+| **socio-economic** (adj) | /ˌsəʊsiəʊˌiːkəˈnɒmɪk/ 〈so-ci-o-ec-o-NOM-ic〉 | thuộc về kinh tế-xã hội (kết hợp cả yếu tố xã hội và kinh tế — giai cấp, thu nhập, địa vị) | *People from lower **socio-economic** backgrounds often have less access to quality education.* | 7.5+ | P | 🔴 |
 | **reduce vulnerability** | /rɪˈdjuːs ˌvʌlnərəˈbɪləti/ 〈re-DUCE vul-ne-ra-BIL-i-ty〉 | giảm tính dễ bị tổn thương | *Microfinance can **reduce vulnerability** among low-income households.* | 7.5+ | P | 🔴 |
 | **agriculture shocks** | /ˈæɡrɪkʌltʃər ʃɒks/ 〈AG-ri-cul-ture shocks〉 | cú sốc nông nghiệp (mất mùa, thiên tai ảnh hưởng sản xuất) | *Farmers are especially exposed to **agriculture shocks** like droughts.* | 7.0+ | P | 🔴 |
 | **subsidy** (n) | /ˈsʌb.sɪ.di/ 〈SUB-si-dy〉 | tiền trợ cấp (nhà nước hỗ trợ 1 phần chi phí để khuyến khích việc gì) | *The government provides a **subsidy** for renewable energy projects.* | 7.0+ | P | 🔴 |
