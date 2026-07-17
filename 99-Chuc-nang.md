@@ -40,6 +40,7 @@
 | **suggest/recommend/insist + S + V nguyên mẫu (subjunctive)** | Sau các động từ đề xuất/yêu cầu (suggest, recommend, insist, demand, propose), mệnh đề theo sau dùng V NGUYÊN MẪU (không chia thì, không V-ing) dù chủ ngữ là gì | *I **suggest we repair** the handle.* (không phải "repairing"/"repairs") / *The doctor **recommended she rest**.* | 🔴 |
 | **be up for + V-ing/danh từ** | = sẵn sàng/hứng thú làm gì (thường dùng câu hỏi/phủ định). Giống "to + V-ing" (downside to, look forward to), sau giới từ dùng V-ing chứ không phải V nguyên mẫu | *If you're not **up for walking**, take a bike.* / *Are you **up for a challenge**?* | 🔴 |
 | **make the most of + something** | = tận dụng tối đa, sử dụng hiệu quả nhất. LUÔN có "the" ở giữa, không được bỏ | *We don't think we're **making the most of** this room.* / *Make the most of your time at university.* | 🔴 |
+| **Hậu tố "-cide" = giết, tiêu diệt** | Gốc Latin "caedere" (giết). Nhận diện nghĩa nhanh mà không cần học thuộc từng từ: **pesti**cide (diệt sâu bệnh nói chung), **insecti**cide (diệt côn trùng), **herbi**cide (diệt cỏ dại), **sui**cide (tự sát), **homi**cide (giết người), **geno**cide (diệt chủng) | *Farmers used **insecticide** to kill cotton pests.* | 🔴 |
 
 ## 4. Cặp PARAPHRASE (đề ↔ audio/bài đọc)
 | Từ trong ĐỀ | Từ đồng nghĩa trong AUDIO/BÀI | TT |
