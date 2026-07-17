@@ -144,6 +144,7 @@
 | **innate** (adj) | /ɪˈneɪt/ 〈in-NATE〉 | bẩm sinh, vốn có từ khi sinh ra (đối lập "learned/acquired") | *It takes very little to trigger people's **innate** distrust of strangers.* | P | 🔴 |
 | **dismiss** (v) | /dɪsˈmɪs/ 〈dis-MISS〉 | bác bỏ, gạt bỏ (một ý kiến/giả định) coi là không đáng xem xét; cũng có nghĩa "cho nghỉ việc/cho ra về" | *Evolutionary psychology **dismisses** the long-held assumption that our minds are like blank pages.* | P | 🔴 |
 | **primitive** (adj) | /ˈprɪmɪtɪv/ 〈PRIM-i-tive〉 | nguyên thủy, sơ khai (⚠️ trọng âm rơi vào âm ĐẦU, không phải giữa từ) | *The writer discusses emotion, not to **criticise primitive** survival strategies, but to explain workplace behaviour.* | R | 🔴 |
+| **refreshments** (n, LUÔN số nhiều — pluralia tantum) | /rɪˈfreʃmənts/ 〈re-FRESH-ments〉 | đồ ăn nhẹ/thức uống phục vụ tại sự kiện (⚠️ KHÔNG dùng "a refreshment" số ít trong nghĩa này — giống "clothes", "goods") | *"**Refreshments** will be served in the lobby." / "Please enjoy the **refreshments**."* | R | 🔴 |
 
 ---
 *Mục 3 (dòng "The + so sánh...") và mục 4, 9 (underpinnings, potent, arousal) bổ sung từ: Cambridge 12, Test 7, Reading Passage 2 & 3.*
