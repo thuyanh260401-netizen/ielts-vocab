@@ -22,6 +22,7 @@
 | **presentation(s)** | Đ | Đếm được — mỗi bài thuyết trình là 1 đơn vị | *All **presentations** were assessed individually.* | Full test 13/07 Q24 |
 | **stone** | Cả 2 | KĐ khi nói về đá như CHẤT LIỆU xây dựng nói chung (không đếm); Đ (số nhiều "stones") khi nói đến CÁC VIÊN ĐÁ cụ thể (vd. đá cong trong môn curling) | *The house was made of **stone**.* (chất liệu, KĐ) ≠ *Curling **stones** are made from granite.* (vật thể cụ thể, Đ) | Full test 14/07 #2 Q5 — thêm "s" thừa khi nói vật liệu xây dựng |
 | **screen(s)** | Đ | Đếm được — mỗi vách ngăn/màn hình là 1 vật thể | *Cubicles had high or low **screens**.* | Full test 14/07 #2 Q33 — thiếu "s" |
+| **cow(s)** | Đ | Đếm được — mỗi con bò là 1 cá thể, đề nói nhiều con bò bị nhiễm bệnh → số nhiều | *Victims of cowpox, which they caught from infected **cows**.* | Full test 17/07 #2 Q36 — thiếu "s" (+ nhầm dạng từ infective/infected) |
 
 ## Nhóm B — Cần nhớ vì DỄ NHẦM là ngược lại quy tắc thông thường
 
@@ -32,6 +33,7 @@
 | **water(s)** | Cả 2 | KĐ khi nói về nước như chất lỏng nói chung; Đ (số nhiều "waters") chỉ dùng cho nghĩa hải phận/lãnh hải, hoặc "mineral waters" (sản phẩm đóng chai theo loại) — KHÔNG dùng "waters" để nói "nhiều loại nước uống" | *Fishing in national **waters**.* (hải phận) — khác *drinking water* (KĐ, không thêm s) |
 | **fertilizer(s)** | Cả 2 | KĐ khi nói khái quát về việc dùng phân bón (1 chất liệu); Đ (số nhiều) khi nói đến CÁC LOẠI phân bón khác nhau (hữu cơ, hóa học...) | *Farmers used **fertilizer** to increase crop yield.* (KĐ, đúng cho Test 5 Q33) |
 | **man / men** | Đ, số nhiều BẤT QUY TẮC | "men" không phải "mans" | *Two **men** were waiting outside.* |
+| **refreshments** | Đ, LUÔN số nhiều (pluralia tantum) | Đồ ăn nhẹ/thức uống tại sự kiện — KHÔNG dùng "a refreshment" số ít trong nghĩa này, giống "clothes", "goods" | *"**Refreshments** will be served in the lobby."* |
 
 ---
 *Cập nhật file này mỗi khi phát hiện thêm 1 từ bị sai số ít/nhiều trong bài thi, hoặc 1 từ chưa chắc chắn về tính đếm được.*
