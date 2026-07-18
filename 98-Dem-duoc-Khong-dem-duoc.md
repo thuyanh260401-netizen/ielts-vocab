@@ -23,6 +23,7 @@
 | **stone** | Cả 2 | KĐ khi nói về đá như CHẤT LIỆU xây dựng nói chung (không đếm); Đ (số nhiều "stones") khi nói đến CÁC VIÊN ĐÁ cụ thể (vd. đá cong trong môn curling) | *The house was made of **stone**.* (chất liệu, KĐ) ≠ *Curling **stones** are made from granite.* (vật thể cụ thể, Đ) | Full test 14/07 #2 Q5 — thêm "s" thừa khi nói vật liệu xây dựng |
 | **screen(s)** | Đ | Đếm được — mỗi vách ngăn/màn hình là 1 vật thể | *Cubicles had high or low **screens**.* | Full test 14/07 #2 Q33 — thiếu "s" |
 | **cow(s)** | Đ | Đếm được — mỗi con bò là 1 cá thể, đề nói nhiều con bò bị nhiễm bệnh → số nhiều | *Victims of cowpox, which they caught from infected **cows**.* | Full test 17/07 #2 Q36 — thiếu "s" (+ nhầm dạng từ infective/infected) |
+| **temperature(s)** | Đ | Đếm được khi nói về NHIỀU LẦN ĐO/nhiều nơi (giảm nhiệt độ khắp toàn cầu qua thời gian) → số nhiều | *It reduced global **temperatures** considerably.* | Full test 18/07 Q40 — thiếu "s" |
 
 ## Nhóm B — Cần nhớ vì DỄ NHẦM là ngược lại quy tắc thông thường
 
