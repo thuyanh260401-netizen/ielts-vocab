@@ -119,6 +119,7 @@
 | **vulnerable to** | /ˈvʌlnərəbl tuː/ 〈VUL-ner-a-ble to〉 | dễ bị tổn thương/ảnh hưởng bởi (bệnh tật, rủi ro...) | *Newborn animals are very **vulnerable to** all types of disease.* | P | 🔴 |
 | **renowned for** | /rɪˈnaʊnd fɔː/ 〈re-NOWNED for〉 | nổi tiếng vì (đặc điểm/kỹ năng gì) | *Engineers are **renowned for** being a bit unsociable.* | P | 🔴 |
 | **reflect the importance of** | /rɪˈflekt ðə ɪmˈpɔːtəns əv/ | phản ánh tầm quan trọng của | *State laws now **reflect the importance** and growing appreciation of marshes.* | P | 🔴 |
+| **run counter to (sth)** | /rʌn ˈkaʊntər tuː/ 〈run COUN-ter to〉 | đi ngược lại, trái ngược với — tín hiệu ngôn ngữ báo hiệu Ý TƯƠNG PHẢN, rất hữu ích để nhận diện đoạn "contrast" trong Matching Information/Headings | *Such an assignment **runs counter to** the idea of youth soccer that every child needs to learn every position.* | P | 🔴 |
 | **miserable** (adj) / **misery** (n) | /ˈmɪzərəbl/ 〈MIS-er-a-ble〉 | khổ sở, buồn bã (cảm xúc) hoặc tồi tệ (điều kiện/thời tiết). Đồng nghĩa band cao: wretched, despondent, downcast | *She felt **miserable** after losing her job.* | P | 🔴 |
 | **unsolicited** (adj) | /ˌʌnsəˈlɪsɪtɪd/ 〈un-so-LIC-i-ted〉 | không được yêu cầu, tự ý đưa ra (thường là lời khuyên/ý kiến) | *I try not to give anyone **unsolicited** advice unless they ask for it.* | P | 🔴 |
 | **consummate** (adj) | /kənˈsʌmɪt/ 〈con-SUM-mate〉 | toàn vẹn, tài ba, điêu luyện (mô tả kỹ năng/phẩm chất ở mức hoàn hảo) | *I know I sound like a **consummate** optimist, but I'm really not.* | R | 🔴 |
