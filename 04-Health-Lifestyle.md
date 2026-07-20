@@ -24,8 +24,10 @@
 | **stamina** (n) | /ˈstæmɪnə/ 〈STAM-i-na〉 | sức bền, sức chịu đựng | ***Stamina** training is vitally important for long-distance running.* | P | 🔴 |
 | **ease** (v) | /iːz/ | làm dịu, giảm bớt (đau/căng thẳng) | *Fish oil pills can **ease** muscle pain and inflammation.* | P | 🔴 |
 | **vitally important** | /ˈvaɪtəli ɪmˈpɔːtənt/ 〈VI-tal-ly〉 | cực kỳ quan trọng | *Stamina training is **vitally important** for athletes.* | P | 🔴 |
+| **solitude** (n, không đếm được) | /ˈsɒlɪtjuːd/ 〈SOL-i-tude〉 | sự cô độc, ở một mình — nghĩa TÍCH CỰC (chủ động chọn ở 1 mình để thư giãn) | *A certain amount of **solitude** is beneficial for well-being.* | P | 🔴 |
+| **loneliness** (n) / **lonely** (adj) | /ˈləʊnlinəs/ 〈LONE-li-ness〉 | sự cô đơn — nghĩa TIÊU CỰC (bị động, cảm giác bị cô lập ngoài ý muốn). ⚠️ Dễ nhầm với solitude — bài Listening 20/07 nhấn mạnh "*being alone and being lonely aren't the same thing*" | ***Loneliness** has been increasing steadily for the last 20 years.* | P | 🔴 |
 
 💡 *Ý tưởng mẫu (Writing/Speaking):* ...
 
 ---
-*Từ vựng thêm từ: Cambridge 12, Test 7, Reading Passage 2 — "The Intersection of Health Sciences and Geography"*
+*Từ vựng thêm từ: Cambridge 12, Test 7, Reading Passage 2 — "The Intersection of Health Sciences and Geography"; solitude/loneliness bổ sung từ: Listening Cambridge IELTS 20 Test 1, Section 3*

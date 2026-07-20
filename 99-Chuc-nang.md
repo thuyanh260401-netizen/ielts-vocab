@@ -160,7 +160,20 @@
 | **rebuttal** (n) | /rɪˈbʌtl/ 〈re-BUT-tal〉 | lời phản bác, sự bác bỏ | *The classic **rebuttal** to this theory goes something like this.* | P | 🔴 |
 | **propensity (for)** | /prəˈpensəti/ 〈pro-PEN-si-ty〉 | xu hướng, khuynh hướng (thường có sẵn) | *We do not know if the **propensity** for increase pre-exists in some people.* | P | 🔴 |
 | **submissive** (adj) / **submit** (v) | /səbˈmɪsɪv/ 〈sub-MIS-sive〉 | phục tùng, khuất phục (đối lập "hostile") | *The animals mixed the threatening displays with **submissive** ones, such as fear grimaces.* | P | 🔴 |
+| **danh từ gốc Hy Lạp "-is" → số nhiều "-es"** (KHÔNG thêm "-s" thông thường) | diagnos**is** (số ít, chẩn đoán) → diagnos**es** (số nhiều); tương tự: analys**is**→analys**es**, cris**is**→cris**es**, thes**is**→thes**es** — dễ đoán nhầm chiều vì trông giống số nhiều nhưng thực ra "-is" mới là số ít | *There's no available **diagnosis** or effective treatments.* (số ít, khái quát) vs *Doctors reached different **diagnoses**.* (nhiều lần chẩn đoán cụ thể) | 🔴 |
+| **their + danh từ số ít** (khi nói MỖI NGƯỜI MỘT LẦN, không đếm gộp) | "their" đi với chủ ngữ số nhiều nhưng danh từ theo sau vẫn có thể SỐ ÍT nếu ý là "mỗi người 1 cái/1 lần", mang tính khái quát trừu tượng — khác với đếm nhiều sự kiện cụ thể (lúc đó mới dùng số nhiều) | *...many years **after their death**.* (mỗi người 1 lần chết, không đếm gộp) vs *Three **deaths** were reported.* (đếm sự kiện cụ thể) — tương tự: *Students should bring **their ID**.* | 🔴 |
 | **refreshments** (n, LUÔN số nhiều — pluralia tantum) | /rɪˈfreʃmənts/ 〈re-FRESH-ments〉 | đồ ăn nhẹ/thức uống phục vụ tại sự kiện (⚠️ KHÔNG dùng "a refreshment" số ít trong nghĩa này — giống "clothes", "goods") | *"**Refreshments** will be served in the lobby." / "Please enjoy the **refreshments**."* | R | 🔴 |
+
+| **subtropical** (adj) | /ˌsʌbˈtrɒpɪkl/ 〈sub-TROP-i-cal〉 | (khí hậu) cận nhiệt đới | *The papyrus plant requires **subtropical** conditions to grow.* | R | 🔴 |
+| **laborious** (adj) | /ləˈbɔːriəs/ 〈la-BOR-i-ous〉 | tốn nhiều công sức, vất vả (thường mô tả quy trình/công việc) | *The **laborious** process of papermaking was refined over time.* | P | 🔴 |
+| **rudimentary** (adj) | /ˌruːdɪˈmentri/ 〈ru-di-MEN-ta-ry〉 | thô sơ, sơ khai (kỹ thuật/kiến thức ở giai đoạn đầu) | *The **rudimentary** process of papermaking was later refined.* | P | 🔴 |
+| **bestow (sth on/upon sb)** (v) | /bɪˈstəʊ/ 〈be-STOW〉 | ban tặng, trao (một cách trang trọng) | *Paper money **bestowed** as gifts was wrapped in special envelopes.* | R | 🔴 |
+| **abundant** (adj) / **abundance** (n) | /əˈbʌndənt/ 〈a-BUN-dant〉 | dồi dào, phong phú | *Samarkand had an **abundant** supply of hemp and flax.* | P | 🔴 |
+| **reluctant (to do sth)** (adj) | /rɪˈlʌktənt/ 〈re-LUC-tant〉 | miễn cưỡng, không muốn làm | *The Chinese were **reluctant** to share their papermaking secrets.* | P | 🔴 |
+| **lustrous** (adj) | /ˈlʌstrəs/ 〈LUS-trous〉 | óng ả, bóng mượt (bề mặt) | *The preferred medium for European artists was still the smooth and **lustrous** parchment.* | R | 🔴 |
+| **insufficient** (adj) ↔ **sufficient** | /ˌɪnsəˈfɪʃnt/ 〈in-suf-FI-cient〉 | không đủ | *Soon this source of rags became **insufficient**, so new materials were tried.* | P | 🔴 |
+| **replaceable** (adj) ↔ **irreplaceable** | /rɪˈpleɪsəbl/ 〈re-PLACE-a-ble〉 | có thể thay thế được | *Experiments resulted in inexpensive and **replaceable** materials for papermaking.* | P | 🔴 |
+| **mass production** | /mæs prəˈdʌkʃn/ 〈mass pro-DUC-tion〉 | sản xuất hàng loạt | *Gutenberg's press allowed the **mass production** of printed books.* | P | 🔴 |
 
 ---
 *Mục 3 (dòng "The + so sánh...") và mục 4, 9 (underpinnings, potent, arousal) bổ sung từ: Cambridge 12, Test 7, Reading Passage 2 & 3.*
