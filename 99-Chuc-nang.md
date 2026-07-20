@@ -150,6 +150,15 @@
 | **hostile** (adj) / **hostility** (n) | /ˈhɒstaɪl/ 〈HOS-tile〉 | thù địch, mang tính đe dọa/gây hấn | *The monkeys made several **hostile** gestures: barking and staring back.* | P | 🔴 |
 | **irrespective (of)** | /ˌɪrɪˈspektɪv/ 〈ir-re-SPEC-tive〉 | bất kể, không phân biệt (trang trọng hơn "regardless of") | *Students who practised the most achieved the highest ratings, **irrespective of** which talent group they had been assigned to.* | P | 🔴 |
 | **assign (sb to sth / sth to sb)** | /əˈsaɪn/ 〈as-SIGN〉 | phân công, chỉ định, xếp vào (nhóm/vai trò/nhiệm vụ); n: **assignment** | *Students were **assigned to** different groups based on teachers' perceptions.* | P | 🔴 |
+| **versatility** (n) / **versatile** (adj) | /ˌvɜːsəˈtɪləti/ 〈ver-sa-TIL-i-ty〉 | tính đa dụng, linh hoạt (dùng được nhiều mục đích) | *This amazing **versatility** has encouraged the development of an integrated industry.* | P | 🔴 |
+| **symbiosis** (n) / **mutual dependence** | /ˌsɪmbaɪˈəʊsɪs/ 〈sym-bi-O-sis〉 | cộng sinh / sự phụ thuộc lẫn nhau | *Leaf-cutting ants and their fungus are the best-known example of **symbiosis** — **the mutual dependence of two species**.* | P | 🔴 |
+| **cultivate** (v) | /ˈkʌltɪveɪt/ 〈CUL-ti-vate〉 | nuôi trồng (nghĩa đen); trau dồi (nghĩa bóng — cultivate a skill/relationship) | *Ants **cultivate** a mushroom-like fungus in 'farms'.* | P | 🔴 |
+| **devastate** (v) | /ˈdevəsteɪt/ 〈DEV-a-state〉 | tàn phá nặng nề | *Escovopsis can **devastate** a fungus garden in a couple of days.* | P | 🔴 |
+| **monoculture** (n) | /ˈmɒnəʊˌkʌltʃər/ 〈MON-o-cul-ture〉 | độc canh (chỉ trồng 1 loại) — hay dùng ẩn dụ chỉ sự thiếu đa dạng, dễ tổn thương | *These 'monocultures' lack the genetic diversity to respond to changing threats.* | P | 🔴 |
+| **endowed with** | /ɪnˈdaʊd wɪð/ 〈en-DOWED with〉 | được ban cho, có sẵn (khả năng/đặc điểm bẩm sinh) | *Do experts just have more of the same basic skills we are all **endowed with**?* | P | 🔴 |
+| **correlate with** (v) / **correlation** (n) | /ˈkɒrəleɪt wɪð/ 〈COR-re-late with〉 | có tương quan với | *Practice does not merely **correlate with** achievement, but causes it.* | P | 🔴 |
+| **rebuttal** (n) | /rɪˈbʌtl/ 〈re-BUT-tal〉 | lời phản bác, sự bác bỏ | *The classic **rebuttal** to this theory goes something like this.* | P | 🔴 |
+| **propensity (for)** | /prəˈpensəti/ 〈pro-PEN-si-ty〉 | xu hướng, khuynh hướng (thường có sẵn) | *We do not know if the **propensity** for increase pre-exists in some people.* | P | 🔴 |
 | **submissive** (adj) / **submit** (v) | /səbˈmɪsɪv/ 〈sub-MIS-sive〉 | phục tùng, khuất phục (đối lập "hostile") | *The animals mixed the threatening displays with **submissive** ones, such as fear grimaces.* | P | 🔴 |
 | **refreshments** (n, LUÔN số nhiều — pluralia tantum) | /rɪˈfreʃmənts/ 〈re-FRESH-ments〉 | đồ ăn nhẹ/thức uống phục vụ tại sự kiện (⚠️ KHÔNG dùng "a refreshment" số ít trong nghĩa này — giống "clothes", "goods") | *"**Refreshments** will be served in the lobby." / "Please enjoy the **refreshments**."* | R | 🔴 |
 

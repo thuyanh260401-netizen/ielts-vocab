@@ -8,6 +8,9 @@
 | **market share** | /ˈmɑːkɪt ʃeər/ | thị phần | *Pioneers commanded a higher **market share** than followers.* | P | 🔴 |
 | **backfire** (v) | /ˈbækfaɪər/ 〈BACK-fire〉 | phản tác dụng, gây hại ngược ý định ban đầu | *The right thing can **backfire** if not managed properly.* | P | 🔴 |
 | **side effects** | /saɪd ɪˈfekts/ | tác dụng phụ, hệ quả ngoài ý muốn | *Leaders must manage the **side effects** of their decisions.* | P | 🔴 |
+| **unsustainable** (adj) | /ˌʌnsəˈsteɪnəbl/ 〈un-sus-TAIN-a-ble〉 | không bền vững | *The rate of harvest was **unsustainable**, leading to rapid decline.* | P | 🔴 |
+| **value-added products** | /ˈvæljuː ˈædɪd ˈprɒdʌkts/ | sản phẩm có giá trị gia tăng (đã qua chế biến, không phải nguyên liệu thô) | *The industry must be based on **value-added products** in the future.* | P | 🔴 |
+| **operate below capacity** | /ˈɒpəreɪt bɪˈləʊ kəˈpæsəti/ | hoạt động dưới công suất (chưa khai thác hết tiềm năng) | *The industry is **operating well below its capacity**.* | P | 🔴 |
 | **commanded a market share of X%** | /kəˈmɑːndɪd/ 〈com-MAND-ed〉 | chiếm/nắm giữ X% thị phần | *Pioneers **commanded a market share of** 29%.* | P | 🔴 |
 | **man-hours** | /mæn aʊəz/ | số giờ công lao động | *Throwing more **man-hours** at a problem isn't always the solution.* | R | 🔴 |
 | **second-rate** (adj) | /ˈsekənd reɪt/ | hạng hai, chất lượng kém hơn (đối lập: first-rate) | *Sometimes **second-rate** work is more worthwhile than excellence.* | P | 🔴 |
