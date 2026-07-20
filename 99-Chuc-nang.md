@@ -18,6 +18,7 @@
 | **decay** /dɪˈkeɪ/ 〈de-CAY〉 (v: phân hủy, mục rữa) | **decade** /ˈdekeɪd/ 〈DEC-ade〉 (n: thập kỷ) | Gần âm nhưng trọng âm khác hẳn (decay nhấn âm sau, decade nhấn âm đầu). *The bones eventually **decay** and are replaced by minerals.* ≠ *This happened over the past **decade**.* | 🔴 |
 | **over time** (2 từ: theo thời gian, dần dần) | **overtime** /ˈəʊvətaɪm/ (1 từ, n: giờ làm thêm) | Viết liền/tách quyết định nghĩa hoàn toàn khác nhau. ***Over time**, the mud hardens around the bones.* ≠ *He works **overtime** every weekend.* | 🔴 |
 | **physician** /fɪˈzɪʃən/ 〈phy-SI-cian〉 (n: bác sĩ, thường nội khoa) | **physicist** /ˈfɪzɪsɪst/ 〈PHYS-i-cist〉 (n: nhà vật lý học) | Mặt chữ rất giống nhau (cùng gốc "phys-") nhưng nghĩa khác hẳn — dễ nhầm khi ĐỌC (không chỉ khi nghe). *Young set up practice as a **physician**.* ≠ *Einstein was a famous **physicist**.* | 🔴 |
+| **tuition** /tjuːˈɪʃən/ 〈tu-I-tion〉 (n: học phí; hoặc sự dạy học/kèm cặp) | **intuition** /ˌɪntjuˈɪʃən/ 〈in-tu-I-tion〉 (n: trực giác, linh cảm) | Mẹo: "intuition" có tiền tố "in-" (bên trong) — trực giác đến từ bên trong, không cần dạy. *Mozart received a lot of **tuition** from his father.* (được dạy dỗ) ≠ *Trust your **intuition**.* (trực giác) | 🔴 |
 
 ## 2. Từ ĐỒNG ÂM (phát âm giống hệt nhau — chỉ phân biệt qua ngữ cảnh + chính tả)
 | Từ 1 | Từ 2 | Cách phân biệt | TT |
