@@ -175,6 +175,17 @@
 | **replaceable** (adj) ↔ **irreplaceable** | /rɪˈpleɪsəbl/ 〈re-PLACE-a-ble〉 | có thể thay thế được | *Experiments resulted in inexpensive and **replaceable** materials for papermaking.* | P | 🔴 |
 | **mass production** | /mæs prəˈdʌkʃn/ 〈mass pro-DUC-tion〉 | sản xuất hàng loạt | *Gutenberg's press allowed the **mass production** of printed books.* | P | 🔴 |
 
+| **anguish** (n) | /ˈæŋɡwɪʃ/ 〈AN-guish〉 | sự đau khổ, thống khổ tột độ (cảm xúc mạnh) | *He saw an intense expression of extreme **anguish** lasting less than a fifteenth of a second.* | P | 🔴 |
+| **conceal** (v) ↔ **reveal** | /kənˈsiːl/ 〈con-CEAL〉 | che giấu | *Micro-expressions are emotions the subject intended to **conceal**.* | P | 🔴 |
+| **flit across** (v) | /flɪt əˈkrɒs/ 〈FLIT a-cross〉 | lướt qua nhanh (biểu cảm/ý nghĩ thoáng qua) | *Micro-expressions will inevitably **flit across** our face before we can stop them.* | R | 🔴 |
+| **candid** (adj) | /ˈkændɪd/ 〈CAN-did〉 | thẳng thắn, trung thực, không giấu giếm | *People wanted to know exactly when someone is not being 100 percent **candid**.* | P | 🔴 |
+| **sceptical** (adj) / **scepticism** (n) | /ˈskeptɪkl/ 〈SKEP-ti-cal〉 | hoài nghi, không dễ tin | *Ekman concedes he was **sceptical** when the producer first approached him.* | P | 🔴 |
+| **conviction** (n, nghĩa pháp lý) | /kənˈvɪkʃn/ 〈con-VIC-tion〉 | sự kết án, bản án (tòa tuyên có tội) — khác nghĩa "niềm tin/sự xác tín" | *He was concerned about unfair **convictions** based on a TV programme.* | R | 🔴 |
+| **manifestly** (adv) | /ˈmænɪfestli/ 〈MAN-i-fest-ly〉 | rõ ràng, hiển nhiên | *He was impressed with the producer's **manifestly** serious and well-intentioned reasons.* | R | 🔴 |
+| **aggrieved** (adj) | /əˈɡriːvd/ 〈ag-GRIEVED〉 | cảm thấy bị đối xử bất công, ấm ức | *The target would feel properly **aggrieved** if they knew they'd been deceived.* | R | 🔴 |
+| **deceive** (v) / **deception** (n) | /dɪˈsiːv/ 〈de-CEIVE〉 | lừa dối, đánh lừa | *An actor or a poker player is supposed to **deceive** you — it's part of the game.* | P | 🔴 |
+| **flattery** (n) / **flatter** (v) | /ˈflætəri/ 〈FLAT-ter-y〉 | lời nịnh hót, tâng bốc | *The same is true of **flattery** — it's a form of deception both sides accept.* | P | 🔴 |
+
 ---
 *Mục 3 (dòng "The + so sánh...") và mục 4, 9 (underpinnings, potent, arousal) bổ sung từ: Cambridge 12, Test 7, Reading Passage 2 & 3.*
 *Mục 7 (make the cut, carry a grudge, gut instinct, patchwork quilt, catch and release) và mục 9 (unsolicited, consummate, veiled, resilient) bổ sung từ: Taylor Swift — NYU Commencement Speech (2022).*
